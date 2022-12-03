@@ -1,6 +1,15 @@
 import os
 import pandas as pd
 
+def normalize(string: str) -> str:
+    string = string.replace('ï', 'i').replace('í', 'i')
+    string = string.replace('è', 'e').replace('é', 'e')
+    string = string.replace('ù', 'u').replace('ú', 'u')
+    string = string.replace('à', 'a').replace('á', 'a').replace('â', 'a').replace('ã', 'a')
+    string = string.replace('ò', 'o').replace('ó', 'o').replace('ô', 'o').replace('õ', 'o')
+    string = string.replace('ç', 'c')
+    return string.strip()
+
 dataframe = pd.read_csv('./datasets/IMDB-Movie-Data.csv')
 
 movie_title_column = 'Title'
@@ -17,26 +26,36 @@ dataframe.drop(drop_column, axis=1, inplace=True)
 
 file_content = ''
 for index in range(num_columns):
-# for index in range(2):
     line = dataframe.loc[index]
-
-    movie = line[movie_title_column].strip().replace("'", "")
-    duration = str(line[duration_column])
-    director = line[director_column].strip().replace("'", "")
-    genres = line[genre_column].split(',')
+    movie = normalize(line[movie_title_column])
     actors = line[actor_column].split(',')
 
     for actor in actors:
-        person = actor.strip().replace("'", "")
-        file_content += f"atuouem('{person}', '{movie}').\n"  # print(f"atuouem('{person)}', '{movie}').\n") 
+        person = normalize(actor)
+        file_content += f'atuouem("{person}","{movie}").\n'  # print(f"atuouem('{person)}', '{movie}').\n") 
+
+for index in range(num_columns):
+    line = dataframe.loc[index]
+    movie = normalize(line[movie_title_column])
+    director = normalize(line[director_column])
     
-    file_content += f"dirigiu('{director}', '{movie}').\n"  # print(f"dirigiu('{director}', '{movie}').\n")
-    
+    file_content += f'dirigiu("{director}","{movie}").\n'  # print(f"dirigiu('{director}', '{movie}').\n")
+
+for index in range(num_columns):
+    line = dataframe.loc[index]
+    movie = normalize(line[movie_title_column])
+    genres = line[genre_column].split(',')
+         
     for genre in genres:
-        genre = genre.strip().replace("'", "")
-        file_content += f"genero('{movie}', '{genre}').\n"  # print(f"genero('{movie}', '{genre}').\n")
-        
-    file_content += f"duracao('{movie}', {duration}).\n"  # print(f"duracao('{movie}', {duration}).\n")
+        genre = normalize(genre)
+        file_content += f'genero("{movie}","{genre}").\n' # print(f"genero('{movie}', '{genre}').\n")
+
+for index in range(num_columns):
+    line = dataframe.loc[index]
+    movie = normalize(line[movie_title_column])
+    duration = str(line[duration_column])
+     
+    file_content += f'duracao("{movie}",{duration}).\n'  # print(f"duracao('{movie}', {duration}).\n")
 
 output_dir = './output'
 if not os.path.exists(output_dir):
