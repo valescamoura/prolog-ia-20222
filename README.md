@@ -4,7 +4,7 @@ Trabalho de prolog para a disciplina de Inteligência Artificial - 20222
 
 ## Discentes
 
-- Arthur 
+- Arthur B. Vasconcelos
 - Valesca Moura
 
 ## Como executar
