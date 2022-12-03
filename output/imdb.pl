@@ -112,7 +112,7 @@ genero('Rogue One', 'Action').
 genero('Rogue One', 'Adventure').
 genero('Rogue One', 'Sci-Fi').
 duracao('Rogue One', 133).
-atuouem('Auli'i Cravalho', 'Moana').
+atuouem('Aulii Cravalho', 'Moana').
 atuouem('Dwayne Johnson', 'Moana').
 atuouem('Rachel House', 'Moana').
 atuouem('Temuera Morrison', 'Moana').
@@ -247,15 +247,15 @@ atuouem('Christina Applegate', 'Bad Moms').
 dirigiu('Jon Lucas', 'Bad Moms').
 genero('Bad Moms', 'Comedy').
 duracao('Bad Moms', 100).
-atuouem('Michael Fassbender', 'Assassin's Creed').
-atuouem('Marion Cotillard', 'Assassin's Creed').
-atuouem('Jeremy Irons', 'Assassin's Creed').
-atuouem('Brendan Gleeson', 'Assassin's Creed').
-dirigiu('Justin Kurzel', 'Assassin's Creed').
-genero('Assassin's Creed', 'Action').
-genero('Assassin's Creed', 'Adventure').
-genero('Assassin's Creed', 'Drama').
-duracao('Assassin's Creed', 115).
+atuouem('Michael Fassbender', 'Assassins Creed').
+atuouem('Marion Cotillard', 'Assassins Creed').
+atuouem('Jeremy Irons', 'Assassins Creed').
+atuouem('Brendan Gleeson', 'Assassins Creed').
+dirigiu('Justin Kurzel', 'Assassins Creed').
+genero('Assassins Creed', 'Action').
+genero('Assassins Creed', 'Adventure').
+genero('Assassins Creed', 'Drama').
+duracao('Assassins Creed', 115).
 atuouem('Zoey Deutch', 'Why Him?').
 atuouem('James Franco', 'Why Him?').
 atuouem('Tangie Ambrose', 'Why Him?').
@@ -328,7 +328,7 @@ duracao('Doctor Strange', 115).
 atuouem('Denzel Washington', 'The Magnificent Seven').
 atuouem('Chris Pratt', 'The Magnificent Seven').
 atuouem('Ethan Hawke', 'The Magnificent Seven').
-atuouem('Vincent D'Onofrio', 'The Magnificent Seven').
+atuouem('Vincent DOnofrio', 'The Magnificent Seven').
 dirigiu('Antoine Fuqua', 'The Magnificent Seven').
 genero('The Magnificent Seven', 'Action').
 genero('The Magnificent Seven', 'Adventure').
@@ -358,13 +358,13 @@ atuouem('Alex R. Hibbert', 'Moonlight').
 dirigiu('Barry Jenkins', 'Moonlight').
 genero('Moonlight', 'Drama').
 duracao('Moonlight', 111).
-atuouem('Brittany Blanton', 'Don't Fuck in the Woods').
-atuouem('Ayse Howard', 'Don't Fuck in the Woods').
-atuouem('Roman Jossart', 'Don't Fuck in the Woods').
-atuouem('Nadia White', 'Don't Fuck in the Woods').
-dirigiu('Shawn Burkett', 'Don't Fuck in the Woods').
-genero('Don't Fuck in the Woods', 'Horror').
-duracao('Don't Fuck in the Woods', 73).
+atuouem('Brittany Blanton', 'Dont Fuck in the Woods').
+atuouem('Ayse Howard', 'Dont Fuck in the Woods').
+atuouem('Roman Jossart', 'Dont Fuck in the Woods').
+atuouem('Nadia White', 'Dont Fuck in the Woods').
+dirigiu('Shawn Burkett', 'Dont Fuck in the Woods').
+genero('Dont Fuck in the Woods', 'Horror').
+duracao('Dont Fuck in the Woods', 73).
 atuouem('Michael Keaton', 'The Founder').
 atuouem('Nick Offerman', 'The Founder').
 atuouem('John Carroll Lynch', 'The Founder').
@@ -441,14 +441,14 @@ genero('Underworld: Blood Wars', 'Action').
 genero('Underworld: Blood Wars', 'Adventure').
 genero('Underworld: Blood Wars', 'Fantasy').
 duracao('Underworld: Blood Wars', 91).
-atuouem('Jennifer Aniston', 'Mother's Day').
-atuouem('Kate Hudson', 'Mother's Day').
-atuouem('Julia Roberts', 'Mother's Day').
-atuouem('Jason Sudeikis', 'Mother's Day').
-dirigiu('Garry Marshall', 'Mother's Day').
-genero('Mother's Day', 'Comedy').
-genero('Mother's Day', 'Drama').
-duracao('Mother's Day', 118).
+atuouem('Jennifer Aniston', 'Mothers Day').
+atuouem('Kate Hudson', 'Mothers Day').
+atuouem('Julia Roberts', 'Mothers Day').
+atuouem('Jason Sudeikis', 'Mothers Day').
+dirigiu('Garry Marshall', 'Mothers Day').
+genero('Mothers Day', 'Comedy').
+genero('Mothers Day', 'Drama').
+duracao('Mothers Day', 118).
 atuouem('Keanu Reeves', 'John Wick').
 atuouem('Michael Nyqvist', 'John Wick').
 atuouem('Alfie Allen', 'John Wick').
@@ -476,15 +476,15 @@ genero('Silence', 'Adventure').
 genero('Silence', 'Drama').
 genero('Silence', 'History').
 duracao('Silence', 161).
-atuouem('Stephen Lang', 'Don't Breathe').
-atuouem('Jane Levy', 'Don't Breathe').
-atuouem('Dylan Minnette', 'Don't Breathe').
-atuouem('Daniel Zovatto', 'Don't Breathe').
-dirigiu('Fede Alvarez', 'Don't Breathe').
-genero('Don't Breathe', 'Crime').
-genero('Don't Breathe', 'Horror').
-genero('Don't Breathe', 'Thriller').
-duracao('Don't Breathe', 88).
+atuouem('Stephen Lang', 'Dont Breathe').
+atuouem('Jane Levy', 'Dont Breathe').
+atuouem('Dylan Minnette', 'Dont Breathe').
+atuouem('Daniel Zovatto', 'Dont Breathe').
+dirigiu('Fede Alvarez', 'Dont Breathe').
+genero('Dont Breathe', 'Crime').
+genero('Dont Breathe', 'Horror').
+genero('Dont Breathe', 'Thriller').
+duracao('Dont Breathe', 88).
 atuouem('Emilia Clarke', 'Me Before You').
 atuouem('Sam Claflin', 'Me Before You').
 atuouem('Janet McTeer', 'Me Before You').
@@ -584,8 +584,8 @@ genero('Mad Max: Fury Road', 'Sci-Fi').
 duracao('Mad Max: Fury Road', 120).
 atuouem('Bryan Cranston', 'Wakefield').
 atuouem('Jennifer Garner', 'Wakefield').
-atuouem('Beverly D'Angelo', 'Wakefield').
-atuouem('Jason O'Mara', 'Wakefield').
+atuouem('Beverly DAngelo', 'Wakefield').
+atuouem('Jason OMara', 'Wakefield').
 dirigiu('Robin Swicord', 'Wakefield').
 genero('Wakefield', 'Drama').
 duracao('Wakefield', 106).
@@ -640,15 +640,15 @@ genero('Zootopia', 'Animation').
 genero('Zootopia', 'Adventure').
 genero('Zootopia', 'Comedy').
 duracao('Zootopia', 108).
-atuouem('Johnny Depp', 'Pirates of the Caribbean: At World's End').
-atuouem('Orlando Bloom', 'Pirates of the Caribbean: At World's End').
-atuouem('Keira Knightley', 'Pirates of the Caribbean: At World's End').
-atuouem('Geoffrey Rush', 'Pirates of the Caribbean: At World's End').
-dirigiu('Gore Verbinski', 'Pirates of the Caribbean: At World's End').
-genero('Pirates of the Caribbean: At World's End', 'Action').
-genero('Pirates of the Caribbean: At World's End', 'Adventure').
-genero('Pirates of the Caribbean: At World's End', 'Fantasy').
-duracao('Pirates of the Caribbean: At World's End', 169).
+atuouem('Johnny Depp', 'Pirates of the Caribbean: At Worlds End').
+atuouem('Orlando Bloom', 'Pirates of the Caribbean: At Worlds End').
+atuouem('Keira Knightley', 'Pirates of the Caribbean: At Worlds End').
+atuouem('Geoffrey Rush', 'Pirates of the Caribbean: At Worlds End').
+dirigiu('Gore Verbinski', 'Pirates of the Caribbean: At Worlds End').
+genero('Pirates of the Caribbean: At Worlds End', 'Action').
+genero('Pirates of the Caribbean: At Worlds End', 'Adventure').
+genero('Pirates of the Caribbean: At Worlds End', 'Fantasy').
+duracao('Pirates of the Caribbean: At Worlds End', 169).
 atuouem('Robert Downey Jr.', 'The Avengers').
 atuouem('Chris Evans', 'The Avengers').
 atuouem('Scarlett Johansson', 'The Avengers').
@@ -666,15 +666,15 @@ genero('Inglourious Basterds', 'Adventure').
 genero('Inglourious Basterds', 'Drama').
 genero('Inglourious Basterds', 'War').
 duracao('Inglourious Basterds', 153).
-atuouem('Johnny Depp', 'Pirates of the Caribbean: Dead Man's Chest').
-atuouem('Orlando Bloom', 'Pirates of the Caribbean: Dead Man's Chest').
-atuouem('Keira Knightley', 'Pirates of the Caribbean: Dead Man's Chest').
-atuouem('Jack Davenport', 'Pirates of the Caribbean: Dead Man's Chest').
-dirigiu('Gore Verbinski', 'Pirates of the Caribbean: Dead Man's Chest').
-genero('Pirates of the Caribbean: Dead Man's Chest', 'Action').
-genero('Pirates of the Caribbean: Dead Man's Chest', 'Adventure').
-genero('Pirates of the Caribbean: Dead Man's Chest', 'Fantasy').
-duracao('Pirates of the Caribbean: Dead Man's Chest', 151).
+atuouem('Johnny Depp', 'Pirates of the Caribbean: Dead Mans Chest').
+atuouem('Orlando Bloom', 'Pirates of the Caribbean: Dead Mans Chest').
+atuouem('Keira Knightley', 'Pirates of the Caribbean: Dead Mans Chest').
+atuouem('Jack Davenport', 'Pirates of the Caribbean: Dead Mans Chest').
+dirigiu('Gore Verbinski', 'Pirates of the Caribbean: Dead Mans Chest').
+genero('Pirates of the Caribbean: Dead Mans Chest', 'Action').
+genero('Pirates of the Caribbean: Dead Mans Chest', 'Adventure').
+genero('Pirates of the Caribbean: Dead Mans Chest', 'Fantasy').
+duracao('Pirates of the Caribbean: Dead Mans Chest', 151).
 atuouem('Melissa McCarthy', 'Ghostbusters').
 atuouem('Kristen Wiig', 'Ghostbusters').
 atuouem('Kate McKinnon', 'Ghostbusters').
@@ -767,7 +767,7 @@ atuouem('Ben Affleck', 'The Accountant').
 atuouem('Anna Kendrick', 'The Accountant').
 atuouem('J.K. Simmons', 'The Accountant').
 atuouem('Jon Bernthal', 'The Accountant').
-dirigiu('Gavin O'Connor', 'The Accountant').
+dirigiu('Gavin OConnor', 'The Accountant').
 genero('The Accountant', 'Action').
 genero('The Accountant', 'Crime').
 genero('The Accountant', 'Drama').
@@ -1025,22 +1025,22 @@ genero('10 Cloverfield Lane', 'Mystery').
 duracao('10 Cloverfield Lane', 104).
 atuouem('Ellen DeGeneres', 'Finding Dory').
 atuouem('Albert Brooks', 'Finding Dory').
-atuouem('Ed O'Neill', 'Finding Dory').
+atuouem('Ed ONeill', 'Finding Dory').
 atuouem('Kaitlin Olson', 'Finding Dory').
 dirigiu('Andrew Stanton', 'Finding Dory').
 genero('Finding Dory', 'Animation').
 genero('Finding Dory', 'Adventure').
 genero('Finding Dory', 'Comedy').
 duracao('Finding Dory', 97).
-atuouem('Eva Green', 'Miss Peregrine's Home for Peculiar Children').
-atuouem('Asa Butterfield', 'Miss Peregrine's Home for Peculiar Children').
-atuouem('Samuel L. Jackson', 'Miss Peregrine's Home for Peculiar Children').
-atuouem('Judi Dench', 'Miss Peregrine's Home for Peculiar Children').
-dirigiu('Tim Burton', 'Miss Peregrine's Home for Peculiar Children').
-genero('Miss Peregrine's Home for Peculiar Children', 'Adventure').
-genero('Miss Peregrine's Home for Peculiar Children', 'Drama').
-genero('Miss Peregrine's Home for Peculiar Children', 'Family').
-duracao('Miss Peregrine's Home for Peculiar Children', 127).
+atuouem('Eva Green', 'Miss Peregrines Home for Peculiar Children').
+atuouem('Asa Butterfield', 'Miss Peregrines Home for Peculiar Children').
+atuouem('Samuel L. Jackson', 'Miss Peregrines Home for Peculiar Children').
+atuouem('Judi Dench', 'Miss Peregrines Home for Peculiar Children').
+dirigiu('Tim Burton', 'Miss Peregrines Home for Peculiar Children').
+genero('Miss Peregrines Home for Peculiar Children', 'Adventure').
+genero('Miss Peregrines Home for Peculiar Children', 'Drama').
+genero('Miss Peregrines Home for Peculiar Children', 'Family').
+duracao('Miss Peregrines Home for Peculiar Children', 127).
 atuouem('Shailene Woodley', 'Divergent').
 atuouem('Theo James', 'Divergent').
 atuouem('Kate Winslet', 'Divergent').
@@ -1537,7 +1537,7 @@ duracao('Tropic Thunder', 107).
 atuouem('Vera Farmiga', 'The Conjuring 2').
 atuouem('Patrick Wilson', 'The Conjuring 2').
 atuouem('Madison Wolfe', 'The Conjuring 2').
-atuouem('Frances O'Connor', 'The Conjuring 2').
+atuouem('Frances OConnor', 'The Conjuring 2').
 dirigiu('James Wan', 'The Conjuring 2').
 genero('The Conjuring 2', 'Horror').
 genero('The Conjuring 2', 'Mystery').
@@ -1552,14 +1552,14 @@ genero('Ant-Man', 'Action').
 genero('Ant-Man', 'Adventure').
 genero('Ant-Man', 'Comedy').
 duracao('Ant-Man', 117).
-atuouem('Renée Zellweger', 'Bridget Jones's Baby').
-atuouem('Gemma Jones', 'Bridget Jones's Baby').
-atuouem('Jim Broadbent', 'Bridget Jones's Baby').
-atuouem('Sally Phillips', 'Bridget Jones's Baby').
-dirigiu('Sharon Maguire', 'Bridget Jones's Baby').
-genero('Bridget Jones's Baby', 'Comedy').
-genero('Bridget Jones's Baby', 'Romance').
-duracao('Bridget Jones's Baby', 118).
+atuouem('Renée Zellweger', 'Bridget Joness Baby').
+atuouem('Gemma Jones', 'Bridget Joness Baby').
+atuouem('Jim Broadbent', 'Bridget Joness Baby').
+atuouem('Sally Phillips', 'Bridget Joness Baby').
+dirigiu('Sharon Maguire', 'Bridget Joness Baby').
+genero('Bridget Joness Baby', 'Comedy').
+genero('Bridget Joness Baby', 'Romance').
+duracao('Bridget Joness Baby', 118).
 atuouem('Anya Taylor-Joy', 'The VVitch: A New-England Folktale').
 atuouem('Ralph Ineson', 'The VVitch: A New-England Folktale').
 atuouem('Kate Dickie', 'The VVitch: A New-England Folktale').
@@ -1600,14 +1600,14 @@ dirigiu('Gaspar Noé', 'Love').
 genero('Love', 'Drama').
 genero('Love', 'Romance').
 duracao('Love', 135).
-atuouem('Joe Alwyn', 'Billy Lynn's Long Halftime Walk').
-atuouem('Garrett Hedlund', 'Billy Lynn's Long Halftime Walk').
-atuouem('Arturo Castro', 'Billy Lynn's Long Halftime Walk').
-atuouem('Mason Lee', 'Billy Lynn's Long Halftime Walk').
-dirigiu('Ang Lee', 'Billy Lynn's Long Halftime Walk').
-genero('Billy Lynn's Long Halftime Walk', 'Drama').
-genero('Billy Lynn's Long Halftime Walk', 'War').
-duracao('Billy Lynn's Long Halftime Walk', 113).
+atuouem('Joe Alwyn', 'Billy Lynns Long Halftime Walk').
+atuouem('Garrett Hedlund', 'Billy Lynns Long Halftime Walk').
+atuouem('Arturo Castro', 'Billy Lynns Long Halftime Walk').
+atuouem('Mason Lee', 'Billy Lynns Long Halftime Walk').
+dirigiu('Ang Lee', 'Billy Lynns Long Halftime Walk').
+genero('Billy Lynns Long Halftime Walk', 'Drama').
+genero('Billy Lynns Long Halftime Walk', 'War').
+duracao('Billy Lynns Long Halftime Walk', 113).
 atuouem('Mia Wasikowska', 'Crimson Peak').
 atuouem('Jessica Chastain', 'Crimson Peak').
 atuouem('Tom Hiddleston', 'Crimson Peak').
@@ -1671,7 +1671,7 @@ atuouem('Tom Hardy', 'Warrior').
 atuouem('Nick Nolte', 'Warrior').
 atuouem('Joel Edgerton', 'Warrior').
 atuouem('Jennifer Morrison', 'Warrior').
-dirigiu('Gavin O'Connor', 'Warrior').
+dirigiu('Gavin OConnor', 'Warrior').
 genero('Warrior', 'Action').
 genero('Warrior', 'Drama').
 genero('Warrior', 'Sport').
@@ -1930,14 +1930,14 @@ genero('The Girl with the Dragon Tattoo', 'Crime').
 genero('The Girl with the Dragon Tattoo', 'Drama').
 genero('The Girl with the Dragon Tattoo', 'Mystery').
 duracao('The Girl with the Dragon Tattoo', 158).
-atuouem('Jason Sudeikis', 'We're the Millers').
-atuouem('Jennifer Aniston', 'We're the Millers').
-atuouem('Emma Roberts', 'We're the Millers').
-atuouem('Ed Helms', 'We're the Millers').
-dirigiu('Rawson Marshall Thurber', 'We're the Millers').
-genero('We're the Millers', 'Comedy').
-genero('We're the Millers', 'Crime').
-duracao('We're the Millers', 110).
+atuouem('Jason Sudeikis', 'Were the Millers').
+atuouem('Jennifer Aniston', 'Were the Millers').
+atuouem('Emma Roberts', 'Were the Millers').
+atuouem('Ed Helms', 'Were the Millers').
+dirigiu('Rawson Marshall Thurber', 'Were the Millers').
+genero('Were the Millers', 'Comedy').
+genero('Were the Millers', 'Crime').
+duracao('Were the Millers', 110).
 atuouem('Sasha Lane', 'American Honey').
 atuouem('Shia LaBeouf', 'American Honey').
 atuouem('Riley Keough', 'American Honey').
@@ -1981,15 +1981,15 @@ genero('Rupture', 'Horror').
 genero('Rupture', 'Sci-Fi').
 genero('Rupture', 'Thriller').
 duracao('Rupture', 102).
-atuouem('Ivana Baquero', 'Pan's Labyrinth').
-atuouem('Ariadna Gil', 'Pan's Labyrinth').
-atuouem('Sergi López', 'Pan's Labyrinth').
-atuouem('Maribel Verdú', 'Pan's Labyrinth').
-dirigiu('Guillermo del Toro', 'Pan's Labyrinth').
-genero('Pan's Labyrinth', 'Drama').
-genero('Pan's Labyrinth', 'Fantasy').
-genero('Pan's Labyrinth', 'War').
-duracao('Pan's Labyrinth', 118).
+atuouem('Ivana Baquero', 'Pans Labyrinth').
+atuouem('Ariadna Gil', 'Pans Labyrinth').
+atuouem('Sergi López', 'Pans Labyrinth').
+atuouem('Maribel Verdú', 'Pans Labyrinth').
+dirigiu('Guillermo del Toro', 'Pans Labyrinth').
+genero('Pans Labyrinth', 'Drama').
+genero('Pans Labyrinth', 'Fantasy').
+genero('Pans Labyrinth', 'War').
+duracao('Pans Labyrinth', 118).
 atuouem('Patrick Wilson', 'A Kind of Murder').
 atuouem('Jessica Biel', 'A Kind of Murder').
 atuouem('Haley Bennett', 'A Kind of Murder').
@@ -2017,15 +2017,15 @@ genero('Mission: Impossible - Rogue Nation', 'Action').
 genero('Mission: Impossible - Rogue Nation', 'Adventure').
 genero('Mission: Impossible - Rogue Nation', 'Thriller').
 duracao('Mission: Impossible - Rogue Nation', 131).
-atuouem('Chris Hemsworth', 'The Huntsman: Winter's War').
-atuouem('Jessica Chastain', 'The Huntsman: Winter's War').
-atuouem('Charlize Theron', 'The Huntsman: Winter's War').
-atuouem('Emily Blunt', 'The Huntsman: Winter's War').
-dirigiu('Cedric Nicolas-Troyan', 'The Huntsman: Winter's War').
-genero('The Huntsman: Winter's War', 'Action').
-genero('The Huntsman: Winter's War', 'Adventure').
-genero('The Huntsman: Winter's War', 'Drama').
-duracao('The Huntsman: Winter's War', 114).
+atuouem('Chris Hemsworth', 'The Huntsman: Winters War').
+atuouem('Jessica Chastain', 'The Huntsman: Winters War').
+atuouem('Charlize Theron', 'The Huntsman: Winters War').
+atuouem('Emily Blunt', 'The Huntsman: Winters War').
+dirigiu('Cedric Nicolas-Troyan', 'The Huntsman: Winters War').
+genero('The Huntsman: Winters War', 'Action').
+genero('The Huntsman: Winters War', 'Adventure').
+genero('The Huntsman: Winters War', 'Drama').
+duracao('The Huntsman: Winters War', 114).
 atuouem('Logan Lerman', 'The Perks of Being a Wallflower').
 atuouem('Emma Watson', 'The Perks of Being a Wallflower').
 atuouem('Ezra Miller', 'The Perks of Being a Wallflower').
@@ -2176,7 +2176,7 @@ dirigiu('Yorgos Lanthimos', 'Kynodontas').
 genero('Kynodontas', 'Drama').
 genero('Kynodontas', 'Thriller').
 duracao('Kynodontas', 94).
-atuouem('O'Shea Jackson Jr.', 'Straight Outta Compton').
+atuouem('OShea Jackson Jr.', 'Straight Outta Compton').
 atuouem('Corey Hawkins', 'Straight Outta Compton').
 atuouem('Jason Mitchell', 'Straight Outta Compton').
 atuouem('Neil Brown Jr.', 'Straight Outta Compton').
@@ -2610,14 +2610,14 @@ dirigiu('Fred Wolf', 'The House Bunny').
 genero('The House Bunny', 'Comedy').
 genero('The House Bunny', 'Romance').
 duracao('The House Bunny', 97).
-atuouem('Jay Baruchel', 'She's Out of My League').
-atuouem('Alice Eve', 'She's Out of My League').
-atuouem('T.J. Miller', 'She's Out of My League').
-atuouem('Mike Vogel', 'She's Out of My League').
-dirigiu('Jim Field Smith', 'She's Out of My League').
-genero('She's Out of My League', 'Comedy').
-genero('She's Out of My League', 'Romance').
-duracao('She's Out of My League', 104).
+atuouem('Jay Baruchel', 'Shes Out of My League').
+atuouem('Alice Eve', 'Shes Out of My League').
+atuouem('T.J. Miller', 'Shes Out of My League').
+atuouem('Mike Vogel', 'Shes Out of My League').
+dirigiu('Jim Field Smith', 'Shes Out of My League').
+genero('Shes Out of My League', 'Comedy').
+genero('Shes Out of My League', 'Romance').
+duracao('Shes Out of My League', 104).
 atuouem('Joaquin Phoenix', 'Inherent Vice').
 atuouem('Josh Brolin', 'Inherent Vice').
 atuouem('Owen Wilson', 'Inherent Vice').
@@ -2671,14 +2671,14 @@ genero('The Blind Side', 'Biography').
 genero('The Blind Side', 'Drama').
 genero('The Blind Side', 'Sport').
 duracao('The Blind Side', 129).
-atuouem('Léa Seydoux', 'La vie d'Adèle').
-atuouem('Adèle Exarchopoulos', 'La vie d'Adèle').
-atuouem('Salim Kechiouche', 'La vie d'Adèle').
-atuouem('Aurélien Recoing', 'La vie d'Adèle').
-dirigiu('Abdellatif Kechiche', 'La vie d'Adèle').
-genero('La vie d'Adèle', 'Drama').
-genero('La vie d'Adèle', 'Romance').
-duracao('La vie d'Adèle', 180).
+atuouem('Léa Seydoux', 'La vie dAdèle').
+atuouem('Adèle Exarchopoulos', 'La vie dAdèle').
+atuouem('Salim Kechiouche', 'La vie dAdèle').
+atuouem('Aurélien Recoing', 'La vie dAdèle').
+dirigiu('Abdellatif Kechiche', 'La vie dAdèle').
+genero('La vie dAdèle', 'Drama').
+genero('La vie dAdèle', 'Romance').
+duracao('La vie dAdèle', 180).
 atuouem('Essie Davis', 'The Babadook').
 atuouem('Noah Wiseman', 'The Babadook').
 atuouem('Daniel Henshall', 'The Babadook').
@@ -2751,7 +2751,7 @@ duracao('Fast Five', 131).
 atuouem('Channing Tatum', 'Step Up').
 atuouem('Jenna Dewan Tatum', 'Step Up').
 atuouem('Damaine Radcliff', 'Step Up').
-atuouem('De'Shawn Washington', 'Step Up').
+atuouem('DeShawn Washington', 'Step Up').
 dirigiu('Anne Fletcher', 'Step Up').
 genero('Step Up', 'Crime').
 genero('Step Up', 'Drama').
@@ -2948,15 +2948,15 @@ genero('White House Down', 'Action').
 genero('White House Down', 'Drama').
 genero('White House Down', 'Thriller').
 duracao('White House Down', 131).
-atuouem('Bryce Dallas Howard', 'Pete's Dragon').
-atuouem('Robert Redford', 'Pete's Dragon').
-atuouem('Oakes Fegley', 'Pete's Dragon').
-atuouem('Oona Laurence', 'Pete's Dragon').
-dirigiu('David Lowery', 'Pete's Dragon').
-genero('Pete's Dragon', 'Adventure').
-genero('Pete's Dragon', 'Family').
-genero('Pete's Dragon', 'Fantasy').
-duracao('Pete's Dragon', 102).
+atuouem('Bryce Dallas Howard', 'Petes Dragon').
+atuouem('Robert Redford', 'Petes Dragon').
+atuouem('Oakes Fegley', 'Petes Dragon').
+atuouem('Oona Laurence', 'Petes Dragon').
+dirigiu('David Lowery', 'Petes Dragon').
+genero('Petes Dragon', 'Adventure').
+genero('Petes Dragon', 'Family').
+genero('Petes Dragon', 'Fantasy').
+duracao('Petes Dragon', 102).
 atuouem('Tobey Maguire', 'Spider-Man 3').
 atuouem('Kirsten Dunst', 'Spider-Man 3').
 atuouem('Topher Grace', 'Spider-Man 3').
@@ -2991,14 +2991,14 @@ dirigiu('David O. Russell', 'American Hustle').
 genero('American Hustle', 'Crime').
 genero('American Hustle', 'Drama').
 duracao('American Hustle', 138).
-atuouem('Megan Fox', 'Jennifer's Body').
-atuouem('Amanda Seyfried', 'Jennifer's Body').
-atuouem('Adam Brody', 'Jennifer's Body').
-atuouem('Johnny Simmons', 'Jennifer's Body').
-dirigiu('Karyn Kusama', 'Jennifer's Body').
-genero('Jennifer's Body', 'Comedy').
-genero('Jennifer's Body', 'Horror').
-duracao('Jennifer's Body', 102).
+atuouem('Megan Fox', 'Jennifers Body').
+atuouem('Amanda Seyfried', 'Jennifers Body').
+atuouem('Adam Brody', 'Jennifers Body').
+atuouem('Johnny Simmons', 'Jennifers Body').
+dirigiu('Karyn Kusama', 'Jennifers Body').
+genero('Jennifers Body', 'Comedy').
+genero('Jennifers Body', 'Horror').
+duracao('Jennifers Body', 102).
 atuouem('Owen Wilson', 'Midnight in Paris').
 atuouem('Rachel McAdams', 'Midnight in Paris').
 atuouem('Kathy Bates', 'Midnight in Paris').
@@ -3182,7 +3182,7 @@ genero('Sleight', 'Action').
 genero('Sleight', 'Drama').
 genero('Sleight', 'Sci-Fi').
 duracao('Sleight', 89).
-atuouem('Dylan O'Brien', 'The Maze Runner').
+atuouem('Dylan OBrien', 'The Maze Runner').
 atuouem('Kaya Scodelario', 'The Maze Runner').
 atuouem('Will Poulter', 'The Maze Runner').
 atuouem('Thomas Brodie-Sangster', 'The Maze Runner').
@@ -3569,13 +3569,13 @@ genero('Tusk', 'Comedy').
 genero('Tusk', 'Drama').
 genero('Tusk', 'Horror').
 duracao('Tusk', 102).
-atuouem('Alison Brie', 'The Headhunter's Calling').
-atuouem('Gerard Butler', 'The Headhunter's Calling').
-atuouem('Willem Dafoe', 'The Headhunter's Calling').
-atuouem('Gretchen Mol', 'The Headhunter's Calling').
-dirigiu('Mark Williams', 'The Headhunter's Calling').
-genero('The Headhunter's Calling', 'Drama').
-duracao('The Headhunter's Calling', 108).
+atuouem('Alison Brie', 'The Headhunters Calling').
+atuouem('Gerard Butler', 'The Headhunters Calling').
+atuouem('Willem Dafoe', 'The Headhunters Calling').
+atuouem('Gretchen Mol', 'The Headhunters Calling').
+dirigiu('Mark Williams', 'The Headhunters Calling').
+genero('The Headhunters Calling', 'Drama').
+duracao('The Headhunters Calling', 108).
 atuouem('Keira Knightley', 'Atonement').
 atuouem('James McAvoy', 'Atonement').
 atuouem('Brenda Blethyn', 'Atonement').
@@ -3671,7 +3671,7 @@ genero('The Bourne Ultimatum', 'Action').
 genero('The Bourne Ultimatum', 'Mystery').
 genero('The Bourne Ultimatum', 'Thriller').
 duracao('The Bourne Ultimatum', 115).
-atuouem('Srdjan 'Zika' Todorovic', 'Srpski film').
+atuouem('Srdjan Zika Todorovic', 'Srpski film').
 atuouem('Sergej Trifunovic', 'Srpski film').
 atuouem('Jelena Gavrilovic', 'Srpski film').
 atuouem('Slobodan Bestic', 'Srpski film').
@@ -4092,7 +4092,7 @@ duracao('The Lives of Others', 137).
 atuouem('Dominic Monaghan', 'Pet').
 atuouem('Ksenia Solo', 'Pet').
 atuouem('Jennette McCurdy', 'Pet').
-atuouem('Da'Vone McDonald', 'Pet').
+atuouem('DaVone McDonald', 'Pet').
 dirigiu('Carles Torrens', 'Pet').
 genero('Pet', 'Horror').
 genero('Pet', 'Thriller').
@@ -4291,7 +4291,7 @@ genero('Up', 'Animation').
 genero('Up', 'Adventure').
 genero('Up', 'Comedy').
 duracao('Up', 96).
-atuouem('Dylan O'Brien', 'Maze Runner: The Scorch Trials').
+atuouem('Dylan OBrien', 'Maze Runner: The Scorch Trials').
 atuouem('Kaya Scodelario', 'Maze Runner: The Scorch Trials').
 atuouem('Thomas Brodie-Sangster', 'Maze Runner: The Scorch Trials').
 atuouem('Giancarlo Esposito', 'Maze Runner: The Scorch Trials').
@@ -4382,7 +4382,7 @@ duracao('Gravity', 91).
 atuouem('Asa Butterfield', 'The Boy in the Striped Pyjamas').
 atuouem('David Thewlis', 'The Boy in the Striped Pyjamas').
 atuouem('Rupert Friend', 'The Boy in the Striped Pyjamas').
-atuouem('Zac Mattoon O'Brien', 'The Boy in the Striped Pyjamas').
+atuouem('Zac Mattoon OBrien', 'The Boy in the Striped Pyjamas').
 dirigiu('Mark Herman', 'The Boy in the Striped Pyjamas').
 genero('The Boy in the Striped Pyjamas', 'Drama').
 genero('The Boy in the Striped Pyjamas', 'War').
@@ -4692,14 +4692,14 @@ genero('Midnight Special', 'Drama').
 genero('Midnight Special', 'Mystery').
 genero('Midnight Special', 'Sci-Fi').
 duracao('Midnight Special', 112).
-atuouem('Keegan-Michael Key', 'Don't Think Twice').
-atuouem('Gillian Jacobs', 'Don't Think Twice').
-atuouem('Mike Birbiglia', 'Don't Think Twice').
-atuouem('Chris Gethard', 'Don't Think Twice').
-dirigiu('Mike Birbiglia', 'Don't Think Twice').
-genero('Don't Think Twice', 'Comedy').
-genero('Don't Think Twice', 'Drama').
-duracao('Don't Think Twice', 92).
+atuouem('Keegan-Michael Key', 'Dont Think Twice').
+atuouem('Gillian Jacobs', 'Dont Think Twice').
+atuouem('Mike Birbiglia', 'Dont Think Twice').
+atuouem('Chris Gethard', 'Dont Think Twice').
+dirigiu('Mike Birbiglia', 'Dont Think Twice').
+genero('Dont Think Twice', 'Comedy').
+genero('Dont Think Twice', 'Drama').
+duracao('Dont Think Twice', 92).
 atuouem('Mia Wasikowska', 'Alice in Wonderland').
 atuouem('Johnny Depp', 'Alice in Wonderland').
 atuouem('Helena Bonham Carter', 'Alice in Wonderland').
@@ -4892,7 +4892,7 @@ genero('A Hologram for the King', 'Drama').
 duracao('A Hologram for the King', 98).
 atuouem('George Clooney', 'Money Monster').
 atuouem('Julia Roberts', 'Money Monster').
-atuouem('Jack O'Connell', 'Money Monster').
+atuouem('Jack OConnell', 'Money Monster').
 atuouem('Dominic West', 'Money Monster').
 dirigiu('Jodie Foster', 'Money Monster').
 genero('Money Monster', 'Crime').
@@ -5010,15 +5010,15 @@ dirigiu('Jake Kasdan', 'Sex Tape').
 genero('Sex Tape', 'Comedy').
 genero('Sex Tape', 'Romance').
 duracao('Sex Tape', 94).
-atuouem('Cameron Diaz', 'What to Expect When You're Expecting').
-atuouem('Matthew Morrison', 'What to Expect When You're Expecting').
-atuouem('J. Todd Smith', 'What to Expect When You're Expecting').
-atuouem('Dennis Quaid', 'What to Expect When You're Expecting').
-dirigiu('Kirk Jones', 'What to Expect When You're Expecting').
-genero('What to Expect When You're Expecting', 'Comedy').
-genero('What to Expect When You're Expecting', 'Drama').
-genero('What to Expect When You're Expecting', 'Romance').
-duracao('What to Expect When You're Expecting', 110).
+atuouem('Cameron Diaz', 'What to Expect When Youre Expecting').
+atuouem('Matthew Morrison', 'What to Expect When Youre Expecting').
+atuouem('J. Todd Smith', 'What to Expect When Youre Expecting').
+atuouem('Dennis Quaid', 'What to Expect When Youre Expecting').
+dirigiu('Kirk Jones', 'What to Expect When Youre Expecting').
+genero('What to Expect When Youre Expecting', 'Comedy').
+genero('What to Expect When Youre Expecting', 'Drama').
+genero('What to Expect When Youre Expecting', 'Romance').
+duracao('What to Expect When Youre Expecting', 110).
 atuouem('Brad Pitt', 'Moneyball').
 atuouem('Robin Wright', 'Moneyball').
 atuouem('Jonah Hill', 'Moneyball').
@@ -5037,7 +5037,7 @@ genero('Ghost Rider', 'Action').
 genero('Ghost Rider', 'Fantasy').
 genero('Ghost Rider', 'Thriller').
 duracao('Ghost Rider', 114).
-atuouem('Jack O'Connell', 'Unbroken').
+atuouem('Jack OConnell', 'Unbroken').
 atuouem('Miyavi', 'Unbroken').
 atuouem('Domhnall Gleeson', 'Unbroken').
 atuouem('Garrett Hedlund', 'Unbroken').
@@ -5099,23 +5099,23 @@ genero('The Drop', 'Crime').
 genero('The Drop', 'Drama').
 genero('The Drop', 'Mystery').
 duracao('The Drop', 106).
-atuouem('Amanda Bynes', 'She's the Man').
-atuouem('Laura Ramsey', 'She's the Man').
-atuouem('Channing Tatum', 'She's the Man').
-atuouem('Vinnie Jones', 'She's the Man').
-dirigiu('Andy Fickman', 'She's the Man').
-genero('She's the Man', 'Comedy').
-genero('She's the Man', 'Romance').
-genero('She's the Man', 'Sport').
-duracao('She's the Man', 105).
-atuouem('Will Ferrell', 'Daddy's Home').
-atuouem('Mark Wahlberg', 'Daddy's Home').
-atuouem('Linda Cardellini', 'Daddy's Home').
-atuouem('Thomas Haden Church', 'Daddy's Home').
-dirigiu('Sean Anders', 'Daddy's Home').
-genero('Daddy's Home', 'Comedy').
-genero('Daddy's Home', 'Family').
-duracao('Daddy's Home', 96).
+atuouem('Amanda Bynes', 'Shes the Man').
+atuouem('Laura Ramsey', 'Shes the Man').
+atuouem('Channing Tatum', 'Shes the Man').
+atuouem('Vinnie Jones', 'Shes the Man').
+dirigiu('Andy Fickman', 'Shes the Man').
+genero('Shes the Man', 'Comedy').
+genero('Shes the Man', 'Romance').
+genero('Shes the Man', 'Sport').
+duracao('Shes the Man', 105).
+atuouem('Will Ferrell', 'Daddys Home').
+atuouem('Mark Wahlberg', 'Daddys Home').
+atuouem('Linda Cardellini', 'Daddys Home').
+atuouem('Thomas Haden Church', 'Daddys Home').
+dirigiu('Sean Anders', 'Daddys Home').
+genero('Daddys Home', 'Comedy').
+genero('Daddys Home', 'Family').
+duracao('Daddys Home', 96).
 atuouem('Kodi Smit-McPhee', 'Let Me In').
 atuouem('Chloë Grace Moretz', 'Let Me In').
 atuouem('Richard Jenkins', 'Let Me In').
@@ -5179,15 +5179,15 @@ genero('Blood Father', 'Action').
 genero('Blood Father', 'Crime').
 genero('Blood Father', 'Drama').
 duracao('Blood Father', 88).
-atuouem('Jennifer Aniston', 'He's Just Not That Into You').
-atuouem('Jennifer Connelly', 'He's Just Not That Into You').
-atuouem('Morgan Lily', 'He's Just Not That Into You').
-atuouem('Trenton Rogers', 'He's Just Not That Into You').
-dirigiu('Ken Kwapis', 'He's Just Not That Into You').
-genero('He's Just Not That Into You', 'Comedy').
-genero('He's Just Not That Into You', 'Drama').
-genero('He's Just Not That Into You', 'Romance').
-duracao('He's Just Not That Into You', 129).
+atuouem('Jennifer Aniston', 'Hes Just Not That Into You').
+atuouem('Jennifer Connelly', 'Hes Just Not That Into You').
+atuouem('Morgan Lily', 'Hes Just Not That Into You').
+atuouem('Trenton Rogers', 'Hes Just Not That Into You').
+dirigiu('Ken Kwapis', 'Hes Just Not That Into You').
+genero('Hes Just Not That Into You', 'Comedy').
+genero('Hes Just Not That Into You', 'Drama').
+genero('Hes Just Not That Into You', 'Romance').
+duracao('Hes Just Not That Into You', 129).
 atuouem('Jack Black', 'Kung Fu Panda 3').
 atuouem('Bryan Cranston', 'Kung Fu Panda 3').
 atuouem('Dustin Hoffman', 'Kung Fu Panda 3').
@@ -5205,20 +5205,20 @@ dirigiu('Zackary Adler', 'The Rise of the Krays').
 genero('The Rise of the Krays', 'Crime').
 genero('The Rise of the Krays', 'Drama').
 duracao('The Rise of the Krays', 110).
-atuouem('Fionn O'Shea', 'Handsome Devil').
+atuouem('Fionn OShea', 'Handsome Devil').
 atuouem('Nicholas Galitzine', 'Handsome Devil').
 atuouem('Andrew Scott', 'Handsome Devil').
 atuouem('Moe Dunford', 'Handsome Devil').
 dirigiu('John Butler', 'Handsome Devil').
 genero('Handsome Devil', 'Drama').
 duracao('Handsome Devil', 95).
-atuouem('Jennifer Lawrence', 'Winter's Bone').
-atuouem('John Hawkes', 'Winter's Bone').
-atuouem('Garret Dillahunt', 'Winter's Bone').
-atuouem('Isaiah Stone', 'Winter's Bone').
-dirigiu('Debra Granik', 'Winter's Bone').
-genero('Winter's Bone', 'Drama').
-duracao('Winter's Bone', 100).
+atuouem('Jennifer Lawrence', 'Winters Bone').
+atuouem('John Hawkes', 'Winters Bone').
+atuouem('Garret Dillahunt', 'Winters Bone').
+atuouem('Isaiah Stone', 'Winters Bone').
+dirigiu('Debra Granik', 'Winters Bone').
+genero('Winters Bone', 'Drama').
+duracao('Winters Bone', 100).
 atuouem('Jason Bateman', 'Horrible Bosses').
 atuouem('Charlie Day', 'Horrible Bosses').
 atuouem('Jason Sudeikis', 'Horrible Bosses').
@@ -5296,13 +5296,13 @@ genero('Bastille Day', 'Action').
 genero('Bastille Day', 'Crime').
 genero('Bastille Day', 'Drama').
 duracao('Bastille Day', 92).
-atuouem('Paul Sidhu', '2307: Winter's Dream').
-atuouem('Branden Coles', '2307: Winter's Dream').
-atuouem('Arielle Holmes', '2307: Winter's Dream').
-atuouem('Kelcey Watson', '2307: Winter's Dream').
-dirigiu('Joey Curtis', '2307: Winter's Dream').
-genero('2307: Winter's Dream', 'Sci-Fi').
-duracao('2307: Winter's Dream', 101).
+atuouem('Paul Sidhu', '2307: Winters Dream').
+atuouem('Branden Coles', '2307: Winters Dream').
+atuouem('Arielle Holmes', '2307: Winters Dream').
+atuouem('Kelcey Watson', '2307: Winters Dream').
+dirigiu('Joey Curtis', '2307: Winters Dream').
+genero('2307: Winters Dream', 'Sci-Fi').
+duracao('2307: Winters Dream', 101).
 atuouem('Matthew McConaughey', 'Free State of Jones').
 atuouem('Gugu Mbatha-Raw', 'Free State of Jones').
 atuouem('Mahershala Ali', 'Free State of Jones').
@@ -5533,7 +5533,7 @@ genero('Frantz', 'Drama').
 genero('Frantz', 'History').
 genero('Frantz', 'War').
 duracao('Frantz', 113).
-atuouem('Sofia Black-D'Elia', 'Viral').
+atuouem('Sofia Black-DElia', 'Viral').
 atuouem('Analeigh Tipton', 'Viral').
 atuouem('Travis Tope', 'Viral').
 atuouem('Michael Kelly', 'Viral').
@@ -5675,7 +5675,7 @@ genero('Pineapple Express', 'Action').
 genero('Pineapple Express', 'Comedy').
 genero('Pineapple Express', 'Crime').
 duracao('Pineapple Express', 111).
-atuouem('Dylan O'Brien', 'The First Time').
+atuouem('Dylan OBrien', 'The First Time').
 atuouem('Britt Robertson', 'The First Time').
 atuouem('Victoria Justice', 'The First Time').
 atuouem('James Frecheville', 'The First Time').
@@ -5702,13 +5702,13 @@ genero('The Heat', 'Action').
 genero('The Heat', 'Comedy').
 genero('The Heat', 'Crime').
 duracao('The Heat', 117).
-atuouem('Isabelle Huppert', 'L'avenir').
-atuouem('André Marcon', 'L'avenir').
-atuouem('Roman Kolinka', 'L'avenir').
-atuouem('Edith Scob', 'L'avenir').
-dirigiu('Mia Hansen-Løve', 'L'avenir').
-genero('L'avenir', 'Drama').
-duracao('L'avenir', 102).
+atuouem('Isabelle Huppert', 'Lavenir').
+atuouem('André Marcon', 'Lavenir').
+atuouem('Roman Kolinka', 'Lavenir').
+atuouem('Edith Scob', 'Lavenir').
+dirigiu('Mia Hansen-Løve', 'Lavenir').
+genero('Lavenir', 'Drama').
+duracao('Lavenir', 102).
 atuouem('Keira Knightley', 'Anna Karenina').
 atuouem('Jude Law', 'Anna Karenina').
 atuouem('Aaron Taylor-Johnson', 'Anna Karenina').
@@ -5753,15 +5753,15 @@ genero('Blood Diamond', 'Adventure').
 genero('Blood Diamond', 'Drama').
 genero('Blood Diamond', 'Thriller').
 duracao('Blood Diamond', 143).
-atuouem('Colin Firth', 'Devil's Knot').
-atuouem('Reese Witherspoon', 'Devil's Knot').
-atuouem('Alessandro Nivola', 'Devil's Knot').
-atuouem('James Hamrick', 'Devil's Knot').
-dirigiu('Atom Egoyan', 'Devil's Knot').
-genero('Devil's Knot', 'Biography').
-genero('Devil's Knot', 'Crime').
-genero('Devil's Knot', 'Drama').
-duracao('Devil's Knot', 114).
+atuouem('Colin Firth', 'Devils Knot').
+atuouem('Reese Witherspoon', 'Devils Knot').
+atuouem('Alessandro Nivola', 'Devils Knot').
+atuouem('James Hamrick', 'Devils Knot').
+dirigiu('Atom Egoyan', 'Devils Knot').
+genero('Devils Knot', 'Biography').
+genero('Devils Knot', 'Crime').
+genero('Devils Knot', 'Drama').
+duracao('Devils Knot', 114).
 atuouem('Tom Hardy', 'Child 44').
 atuouem('Gary Oldman', 'Child 44').
 atuouem('Noomi Rapace', 'Child 44').
@@ -5807,7 +5807,7 @@ duracao('The Mist', 126).
 atuouem('Sylvester Stallone', 'Escape Plan').
 atuouem('Arnold Schwarzenegger', 'Escape Plan').
 atuouem('50 Cent', 'Escape Plan').
-atuouem('Vincent D'Onofrio', 'Escape Plan').
+atuouem('Vincent DOnofrio', 'Escape Plan').
 dirigiu('Mikael Håfström', 'Escape Plan').
 genero('Escape Plan', 'Action').
 genero('Escape Plan', 'Crime').
@@ -5881,14 +5881,14 @@ dirigiu('Gabriele Muccino', 'Seven Pounds').
 genero('Seven Pounds', 'Drama').
 genero('Seven Pounds', 'Romance').
 duracao('Seven Pounds', 123).
-atuouem('Colin Firth', 'The King's Speech').
-atuouem('Geoffrey Rush', 'The King's Speech').
-atuouem('Helena Bonham Carter', 'The King's Speech').
-atuouem('Derek Jacobi', 'The King's Speech').
-dirigiu('Tom Hooper', 'The King's Speech').
-genero('The King's Speech', 'Biography').
-genero('The King's Speech', 'Drama').
-duracao('The King's Speech', 118).
+atuouem('Colin Firth', 'The Kings Speech').
+atuouem('Geoffrey Rush', 'The Kings Speech').
+atuouem('Helena Bonham Carter', 'The Kings Speech').
+atuouem('Derek Jacobi', 'The Kings Speech').
+dirigiu('Tom Hooper', 'The Kings Speech').
+genero('The Kings Speech', 'Biography').
+genero('The Kings Speech', 'Drama').
+duracao('The Kings Speech', 118).
 atuouem('Stuart Graham', 'Hunger').
 atuouem('Laine Megaw', 'Hunger').
 atuouem('Brian Milligan', 'Hunger').
@@ -5967,14 +5967,14 @@ genero('Life of Pi', 'Adventure').
 genero('Life of Pi', 'Drama').
 genero('Life of Pi', 'Fantasy').
 duracao('Life of Pi', 127).
-atuouem('Richard Gere', 'Hachi: A Dog's Tale').
-atuouem('Joan Allen', 'Hachi: A Dog's Tale').
-atuouem('Cary-Hiroyuki Tagawa', 'Hachi: A Dog's Tale').
-atuouem('Sarah Roemer', 'Hachi: A Dog's Tale').
-dirigiu('Lasse Hallström', 'Hachi: A Dog's Tale').
-genero('Hachi: A Dog's Tale', 'Drama').
-genero('Hachi: A Dog's Tale', 'Family').
-duracao('Hachi: A Dog's Tale', 93).
+atuouem('Richard Gere', 'Hachi: A Dogs Tale').
+atuouem('Joan Allen', 'Hachi: A Dogs Tale').
+atuouem('Cary-Hiroyuki Tagawa', 'Hachi: A Dogs Tale').
+atuouem('Sarah Roemer', 'Hachi: A Dogs Tale').
+dirigiu('Lasse Hallström', 'Hachi: A Dogs Tale').
+genero('Hachi: A Dogs Tale', 'Drama').
+genero('Hachi: A Dogs Tale', 'Family').
+duracao('Hachi: A Dogs Tale', 93).
 atuouem('Channing Tatum', '10 Years').
 atuouem('Rosario Dawson', '10 Years').
 atuouem('Chris Pratt', '10 Years').
@@ -6314,14 +6314,14 @@ genero('Hugo', 'Adventure').
 genero('Hugo', 'Drama').
 genero('Hugo', 'Family').
 duracao('Hugo', 126).
-atuouem('Emma Roberts', 'The Blackcoat's Daughter').
-atuouem('Kiernan Shipka', 'The Blackcoat's Daughter').
-atuouem('Lauren Holly', 'The Blackcoat's Daughter').
-atuouem('Lucy Boynton', 'The Blackcoat's Daughter').
-dirigiu('Oz Perkins', 'The Blackcoat's Daughter').
-genero('The Blackcoat's Daughter', 'Horror').
-genero('The Blackcoat's Daughter', 'Thriller').
-duracao('The Blackcoat's Daughter', 93).
+atuouem('Emma Roberts', 'The Blackcoats Daughter').
+atuouem('Kiernan Shipka', 'The Blackcoats Daughter').
+atuouem('Lauren Holly', 'The Blackcoats Daughter').
+atuouem('Lucy Boynton', 'The Blackcoats Daughter').
+dirigiu('Oz Perkins', 'The Blackcoats Daughter').
+genero('The Blackcoats Daughter', 'Horror').
+genero('The Blackcoats Daughter', 'Thriller').
+duracao('The Blackcoats Daughter', 93).
 atuouem('Leonardo DiCaprio', 'Body of Lies').
 atuouem('Russell Crowe', 'Body of Lies').
 atuouem('Mark Strong', 'Body of Lies').
@@ -6407,15 +6407,15 @@ atuouem('Jessica Vanessa DeLeon', 'Only for One Night').
 dirigiu('Chris Stokes', 'Only for One Night').
 genero('Only for One Night', 'Thriller').
 duracao('Only for One Night', 86).
-atuouem('Lily Collins', 'Rules Don't Apply').
-atuouem('Haley Bennett', 'Rules Don't Apply').
-atuouem('Taissa Farmiga', 'Rules Don't Apply').
-atuouem('Steve Tom', 'Rules Don't Apply').
-dirigiu('Warren Beatty', 'Rules Don't Apply').
-genero('Rules Don't Apply', 'Comedy').
-genero('Rules Don't Apply', 'Drama').
-genero('Rules Don't Apply', 'Romance').
-duracao('Rules Don't Apply', 127).
+atuouem('Lily Collins', 'Rules Dont Apply').
+atuouem('Haley Bennett', 'Rules Dont Apply').
+atuouem('Taissa Farmiga', 'Rules Dont Apply').
+atuouem('Steve Tom', 'Rules Dont Apply').
+dirigiu('Warren Beatty', 'Rules Dont Apply').
+genero('Rules Dont Apply', 'Comedy').
+genero('Rules Dont Apply', 'Drama').
+genero('Rules Dont Apply', 'Romance').
+duracao('Rules Dont Apply', 127).
 atuouem('Elizabeth Reaser', 'Ouija: Origin of Evil').
 atuouem('Lulu Wilson', 'Ouija: Origin of Evil').
 atuouem('Annalise Basso', 'Ouija: Origin of Evil').
@@ -6570,14 +6570,14 @@ genero('PK', 'Comedy').
 genero('PK', 'Drama').
 genero('PK', 'Romance').
 duracao('PK', 153).
-atuouem('Harrison Ford', 'Ender's Game').
-atuouem('Asa Butterfield', 'Ender's Game').
-atuouem('Hailee Steinfeld', 'Ender's Game').
-atuouem('Abigail Breslin', 'Ender's Game').
-dirigiu('Gavin Hood', 'Ender's Game').
-genero('Ender's Game', 'Action').
-genero('Ender's Game', 'Sci-Fi').
-duracao('Ender's Game', 114).
+atuouem('Harrison Ford', 'Enders Game').
+atuouem('Asa Butterfield', 'Enders Game').
+atuouem('Hailee Steinfeld', 'Enders Game').
+atuouem('Abigail Breslin', 'Enders Game').
+dirigiu('Gavin Hood', 'Enders Game').
+genero('Enders Game', 'Action').
+genero('Enders Game', 'Sci-Fi').
+duracao('Enders Game', 114).
 atuouem('Harrison Ford', 'Indiana Jones and the Kingdom of the Crystal Skull').
 atuouem('Cate Blanchett', 'Indiana Jones and the Kingdom of the Crystal Skull').
 atuouem('Shia LaBeouf', 'Indiana Jones and the Kingdom of the Crystal Skull').
@@ -6784,7 +6784,7 @@ duracao('Sisters', 118).
 atuouem('Robert De Niro', 'The Family').
 atuouem('Michelle Pfeiffer', 'The Family').
 atuouem('Dianna Agron', 'The Family').
-atuouem('John D'Leo', 'The Family').
+atuouem('John DLeo', 'The Family').
 dirigiu('Luc Besson', 'The Family').
 genero('The Family', 'Comedy').
 genero('The Family', 'Crime').
@@ -6851,15 +6851,15 @@ genero('A Walk Among the Tombstones', 'Crime').
 genero('A Walk Among the Tombstones', 'Drama').
 genero('A Walk Among the Tombstones', 'Mystery').
 duracao('A Walk Among the Tombstones', 114).
-atuouem('Simon Pegg', 'The World's End').
-atuouem('Nick Frost', 'The World's End').
-atuouem('Martin Freeman', 'The World's End').
-atuouem('Rosamund Pike', 'The World's End').
-dirigiu('Edgar Wright', 'The World's End').
-genero('The World's End', 'Action').
-genero('The World's End', 'Comedy').
-genero('The World's End', 'Sci-Fi').
-duracao('The World's End', 109).
+atuouem('Simon Pegg', 'The Worlds End').
+atuouem('Nick Frost', 'The Worlds End').
+atuouem('Martin Freeman', 'The Worlds End').
+atuouem('Rosamund Pike', 'The Worlds End').
+dirigiu('Edgar Wright', 'The Worlds End').
+genero('The Worlds End', 'Action').
+genero('The Worlds End', 'Comedy').
+genero('The Worlds End', 'Sci-Fi').
+duracao('The Worlds End', 109).
 atuouem('Lily-Rose Depp', 'Yoga Hosers').
 atuouem('Harley Quinn Smith', 'Yoga Hosers').
 atuouem('Johnny Depp', 'Yoga Hosers').
@@ -7144,15 +7144,15 @@ dirigiu('Cary Joji Fukunaga', 'Jane Eyre').
 genero('Jane Eyre', 'Drama').
 genero('Jane Eyre', 'Romance').
 duracao('Jane Eyre', 120).
-atuouem('Matthew McConaughey', 'Fool's Gold').
-atuouem('Kate Hudson', 'Fool's Gold').
-atuouem('Donald Sutherland', 'Fool's Gold').
-atuouem('Alexis Dziena', 'Fool's Gold').
-dirigiu('Andy Tennant', 'Fool's Gold').
-genero('Fool's Gold', 'Action').
-genero('Fool's Gold', 'Adventure').
-genero('Fool's Gold', 'Comedy').
-duracao('Fool's Gold', 112).
+atuouem('Matthew McConaughey', 'Fools Gold').
+atuouem('Kate Hudson', 'Fools Gold').
+atuouem('Donald Sutherland', 'Fools Gold').
+atuouem('Alexis Dziena', 'Fools Gold').
+dirigiu('Andy Tennant', 'Fools Gold').
+genero('Fools Gold', 'Action').
+genero('Fools Gold', 'Adventure').
+genero('Fools Gold', 'Comedy').
+duracao('Fools Gold', 112).
 atuouem('Sacha Baron Cohen', 'The Dictator').
 atuouem('Anna Faris', 'The Dictator').
 atuouem('John C. Reilly', 'The Dictator').
@@ -7177,14 +7177,14 @@ dirigiu('Cristian Mungiu', 'Bacalaureat').
 genero('Bacalaureat', 'Crime').
 genero('Bacalaureat', 'Drama').
 duracao('Bacalaureat', 128).
-atuouem('Adam Sandler', 'You Don't Mess with the Zohan').
-atuouem('John Turturro', 'You Don't Mess with the Zohan').
-atuouem('Emmanuelle Chriqui', 'You Don't Mess with the Zohan').
-atuouem('Nick Swardson', 'You Don't Mess with the Zohan').
-dirigiu('Dennis Dugan', 'You Don't Mess with the Zohan').
-genero('You Don't Mess with the Zohan', 'Action').
-genero('You Don't Mess with the Zohan', 'Comedy').
-duracao('You Don't Mess with the Zohan', 113).
+atuouem('Adam Sandler', 'You Dont Mess with the Zohan').
+atuouem('John Turturro', 'You Dont Mess with the Zohan').
+atuouem('Emmanuelle Chriqui', 'You Dont Mess with the Zohan').
+atuouem('Nick Swardson', 'You Dont Mess with the Zohan').
+dirigiu('Dennis Dugan', 'You Dont Mess with the Zohan').
+genero('You Dont Mess with the Zohan', 'Action').
+genero('You Dont Mess with the Zohan', 'Comedy').
+duracao('You Dont Mess with the Zohan', 113).
 atuouem('Ana de Armas', 'Exposed').
 atuouem('Keanu Reeves', 'Exposed').
 atuouem('Christopher McDonald', 'Exposed').
@@ -7607,7 +7607,7 @@ genero('The Lucky One', 'Drama').
 genero('The Lucky One', 'Romance').
 duracao('The Lucky One', 101).
 atuouem('Elisabeth Shue', 'Piranha 3D').
-atuouem('Jerry O'Connell', 'Piranha 3D').
+atuouem('Jerry OConnell', 'Piranha 3D').
 atuouem('Richard Dreyfuss', 'Piranha 3D').
 atuouem('Ving Rhames', 'Piranha 3D').
 dirigiu('Alexandre Aja', 'Piranha 3D').
@@ -7756,7 +7756,7 @@ genero('RoboCop', 'Sci-Fi').
 duracao('RoboCop', 117).
 atuouem('Nat Wolff', 'In Dubious Battle').
 atuouem('James Franco', 'In Dubious Battle').
-atuouem('Vincent D'Onofrio', 'In Dubious Battle').
+atuouem('Vincent DOnofrio', 'In Dubious Battle').
 atuouem('Selena Gomez', 'In Dubious Battle').
 dirigiu('James Franco', 'In Dubious Battle').
 genero('In Dubious Battle', 'Drama').
@@ -7770,14 +7770,14 @@ genero('Hello, My Name Is Doris', 'Comedy').
 genero('Hello, My Name Is Doris', 'Drama').
 genero('Hello, My Name Is Doris', 'Romance').
 duracao('Hello, My Name Is Doris', 95).
-atuouem('George Clooney', 'Ocean's Thirteen').
-atuouem('Brad Pitt', 'Ocean's Thirteen').
-atuouem('Matt Damon', 'Ocean's Thirteen').
-atuouem('Michael Mantell', 'Ocean's Thirteen').
-dirigiu('Steven Soderbergh', 'Ocean's Thirteen').
-genero('Ocean's Thirteen', 'Crime').
-genero('Ocean's Thirteen', 'Thriller').
-duracao('Ocean's Thirteen', 122).
+atuouem('George Clooney', 'Oceans Thirteen').
+atuouem('Brad Pitt', 'Oceans Thirteen').
+atuouem('Matt Damon', 'Oceans Thirteen').
+atuouem('Michael Mantell', 'Oceans Thirteen').
+dirigiu('Steven Soderbergh', 'Oceans Thirteen').
+genero('Oceans Thirteen', 'Crime').
+genero('Oceans Thirteen', 'Thriller').
+duracao('Oceans Thirteen', 122).
 atuouem('Nathan Fillion', 'Slither').
 atuouem('Elizabeth Banks', 'Slither').
 atuouem('Michael Rooker', 'Slither').
@@ -7937,7 +7937,7 @@ genero('The Twilight Saga: Breaking Dawn - Part 1', 'Drama').
 genero('The Twilight Saga: Breaking Dawn - Part 1', 'Fantasy').
 duracao('The Twilight Saga: Breaking Dawn - Part 1', 117).
 atuouem('Gabourey Sidibe', 'Precious').
-atuouem('Mo'Nique', 'Precious').
+atuouem('MoNique', 'Precious').
 atuouem('Paula Patton', 'Precious').
 atuouem('Mariah Carey', 'Precious').
 dirigiu('Lee Daniels', 'Precious').
@@ -8030,7 +8030,7 @@ genero('Super', 'Drama').
 duracao('Super', 96).
 atuouem('Jamie Dornan', 'The Siege of Jadotville').
 atuouem('Mark Strong', 'The Siege of Jadotville').
-atuouem('Jason O'Mara', 'The Siege of Jadotville').
+atuouem('Jason OMara', 'The Siege of Jadotville').
 atuouem('Michael McElhatton', 'The Siege of Jadotville').
 dirigiu('Richie Smyth', 'The Siege of Jadotville').
 genero('The Siege of Jadotville', 'Action').
@@ -8069,14 +8069,14 @@ atuouem('David Acord', 'Transpecos').
 dirigiu('Greg Kwedar', 'Transpecos').
 genero('Transpecos', 'Thriller').
 duracao('Transpecos', 86).
-atuouem('Anna Faris', 'What's Your Number?').
-atuouem('Chris Evans', 'What's Your Number?').
-atuouem('Ari Graynor', 'What's Your Number?').
-atuouem('Blythe Danner', 'What's Your Number?').
-dirigiu('Mark Mylod', 'What's Your Number?').
-genero('What's Your Number?', 'Comedy').
-genero('What's Your Number?', 'Romance').
-duracao('What's Your Number?', 106).
+atuouem('Anna Faris', 'Whats Your Number?').
+atuouem('Chris Evans', 'Whats Your Number?').
+atuouem('Ari Graynor', 'Whats Your Number?').
+atuouem('Blythe Danner', 'Whats Your Number?').
+dirigiu('Mark Mylod', 'Whats Your Number?').
+genero('Whats Your Number?', 'Comedy').
+genero('Whats Your Number?', 'Romance').
+duracao('Whats Your Number?', 106).
 atuouem('Vin Diesel', 'Riddick').
 atuouem('Karl Urban', 'Riddick').
 atuouem('Katee Sackhoff', 'Riddick').
@@ -8266,14 +8266,14 @@ genero('Inland Empire', 'Drama').
 genero('Inland Empire', 'Mystery').
 genero('Inland Empire', 'Thriller').
 duracao('Inland Empire', 180).
-atuouem('Lambert Wilson', 'L'odyssée').
-atuouem('Pierre Niney', 'L'odyssée').
-atuouem('Audrey Tautou', 'L'odyssée').
-atuouem('Laurent Lucas', 'L'odyssée').
-dirigiu('Jérôme Salle', 'L'odyssée').
-genero('L'odyssée', 'Adventure').
-genero('L'odyssée', 'Biography').
-duracao('L'odyssée', 122).
+atuouem('Lambert Wilson', 'Lodyssée').
+atuouem('Pierre Niney', 'Lodyssée').
+atuouem('Audrey Tautou', 'Lodyssée').
+atuouem('Laurent Lucas', 'Lodyssée').
+dirigiu('Jérôme Salle', 'Lodyssée').
+genero('Lodyssée', 'Adventure').
+genero('Lodyssée', 'Biography').
+duracao('Lodyssée', 122).
 atuouem('Joseph Gordon-Levitt', 'The Walk').
 atuouem('Charlotte Le Bon', 'The Walk').
 atuouem('Guillaume Baillargeon', 'The Walk').
@@ -8337,7 +8337,7 @@ genero('Scream 4', 'Mystery').
 duracao('Scream 4', 111).
 atuouem('Madina Nalwanga', 'Queen of Katwe').
 atuouem('David Oyelowo', 'Queen of Katwe').
-atuouem('Lupita Nyong'o', 'Queen of Katwe').
+atuouem('Lupita Nyongo', 'Queen of Katwe').
 atuouem('Martin Kabanza', 'Queen of Katwe').
 dirigiu('Mira Nair', 'Queen of Katwe').
 genero('Queen of Katwe', 'Biography').
@@ -8369,13 +8369,13 @@ atuouem('Bria L. Murphy', 'Amateur Night').
 dirigiu('Lisa Addario', 'Amateur Night').
 genero('Amateur Night', 'Comedy').
 duracao('Amateur Night', 92).
-atuouem('Nathalie Baye', 'It's Only the End of the World').
-atuouem('Vincent Cassel', 'It's Only the End of the World').
-atuouem('Marion Cotillard', 'It's Only the End of the World').
-atuouem('Léa Seydoux', 'It's Only the End of the World').
-dirigiu('Xavier Dolan', 'It's Only the End of the World').
-genero('It's Only the End of the World', 'Drama').
-duracao('It's Only the End of the World', 97).
+atuouem('Nathalie Baye', 'Its Only the End of the World').
+atuouem('Vincent Cassel', 'Its Only the End of the World').
+atuouem('Marion Cotillard', 'Its Only the End of the World').
+atuouem('Léa Seydoux', 'Its Only the End of the World').
+dirigiu('Xavier Dolan', 'Its Only the End of the World').
+genero('Its Only the End of the World', 'Drama').
+duracao('Its Only the End of the World', 97).
 atuouem('Antonio Banderas', 'The Skin I Live In').
 atuouem('Elena Anaya', 'The Skin I Live In').
 atuouem('Jan Cornet', 'The Skin I Live In').
@@ -8411,13 +8411,13 @@ genero('Across the Universe', 'Drama').
 genero('Across the Universe', 'Fantasy').
 genero('Across the Universe', 'Musical').
 duracao('Across the Universe', 133).
-atuouem('Jake Johnson', 'Let's Be Cops').
-atuouem('Damon Wayans Jr.', 'Let's Be Cops').
-atuouem('Rob Riggle', 'Let's Be Cops').
-atuouem('Nina Dobrev', 'Let's Be Cops').
-dirigiu('Luke Greenfield', 'Let's Be Cops').
-genero('Let's Be Cops', 'Comedy').
-duracao('Let's Be Cops', 104).
+atuouem('Jake Johnson', 'Lets Be Cops').
+atuouem('Damon Wayans Jr.', 'Lets Be Cops').
+atuouem('Rob Riggle', 'Lets Be Cops').
+atuouem('Nina Dobrev', 'Lets Be Cops').
+dirigiu('Luke Greenfield', 'Lets Be Cops').
+genero('Lets Be Cops', 'Comedy').
+duracao('Lets Be Cops', 104).
 atuouem('Thomas Haden Church', 'Max').
 atuouem('Josh Wiggins', 'Max').
 atuouem('Luke Kleintank', 'Max').
@@ -8435,7 +8435,7 @@ genero('Your Highness', 'Adventure').
 genero('Your Highness', 'Comedy').
 genero('Your Highness', 'Fantasy').
 duracao('Your Highness', 102).
-atuouem('Nicholas D'Agosto', 'Final Destination 5').
+atuouem('Nicholas DAgosto', 'Final Destination 5').
 atuouem('Emma Bell', 'Final Destination 5').
 atuouem('Arlen Escarpeta', 'Final Destination 5').
 atuouem('Miles Fisher', 'Final Destination 5').

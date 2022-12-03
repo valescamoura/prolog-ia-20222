@@ -20,18 +20,20 @@ for index in range(num_columns):
 # for index in range(2):
     line = dataframe.loc[index]
 
-    movie = line[movie_title_column]
+    movie = line[movie_title_column].strip().replace("'", "")
     duration = str(line[duration_column])
-    director = line[director_column]
+    director = line[director_column].strip().replace("'", "")
     genres = line[genre_column].split(',')
     actors = line[actor_column].split(',')
 
-    for person in actors:
-        file_content += f"atuouem('{person.strip()}', '{movie}').\n"  # print(f"atuouem('{person.strip()}', '{movie}').\n") 
+    for actor in actors:
+        person = actor.strip().replace("'", "")
+        file_content += f"atuouem('{person}', '{movie}').\n"  # print(f"atuouem('{person)}', '{movie}').\n") 
     
     file_content += f"dirigiu('{director}', '{movie}').\n"  # print(f"dirigiu('{director}', '{movie}').\n")
     
     for genre in genres:
+        genre = genre.strip().replace("'", "")
         file_content += f"genero('{movie}', '{genre}').\n"  # print(f"genero('{movie}', '{genre}').\n")
         
     file_content += f"duracao('{movie}', {duration}).\n"  # print(f"duracao('{movie}', {duration}).\n")
