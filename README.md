@@ -9,7 +9,10 @@ Trabalho de prolog para a disciplina de Inteligência Artificial - 20222
 
 ## Como executar
 
+- Para gerar os predicados Prolog a partir do dataset, execute o comando: ```python .\parser-imdb-prolog.py <numero_de_filmes>```
+    - O argumento ```<numero_de_filmes>``` é OPCIONAL, caso não seja informado será feito o parser de todo o dataset.
 
+Dataset utilizado: https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data
 
 ## Descrição
 
