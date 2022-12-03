@@ -269,7 +269,7 @@ atuouem("John Goodman","Patriots Day").
 atuouem("Tom Hardy","Mad Max: Fury Road").
 atuouem("Charlize Theron","Mad Max: Fury Road").
 atuouem("Nicholas Hoult","Mad Max: Fury Road").
-atuouem("Zoë Kravitz","Mad Max: Fury Road").
+atuouem("Zoe Kravitz","Mad Max: Fury Road").
 atuouem("Bryan Cranston","Wakefield").
 atuouem("Jennifer Garner","Wakefield").
 atuouem("Beverly D'Angelo","Wakefield").
@@ -293,7 +293,7 @@ atuouem("Toby Kebbell","A Monster Calls").
 atuouem("Will Smith","Collateral Beauty").
 atuouem("Edward Norton","Collateral Beauty").
 atuouem("Kate Winslet","Collateral Beauty").
-atuouem("Michael Peña","Collateral Beauty").
+atuouem("Michael Pena","Collateral Beauty").
 atuouem("Ginnifer Goodwin","Zootopia").
 atuouem("Jason Bateman","Zootopia").
 atuouem("Idris Elba","Zootopia").
@@ -382,7 +382,7 @@ atuouem("Russell Crowe","The Nice Guys").
 atuouem("Ryan Gosling","The Nice Guys").
 atuouem("Angourie Rice","The Nice Guys").
 atuouem("Matt Bomer","The Nice Guys").
-atuouem("Ryûnosuke Kamiki","Kimi no na wa").
+atuouem("Ryunosuke Kamiki","Kimi no na wa").
 atuouem("Mone Kamishiraishi","Kimi no na wa").
 atuouem("Ryo Narita","Kimi no na wa").
 atuouem("Aoi Yuki","Kimi no na wa").
@@ -426,7 +426,7 @@ atuouem("Robert De Niro","The Comedian").
 atuouem("Leslie Mann","The Comedian").
 atuouem("Danny DeVito","The Comedian").
 atuouem("Edie Falco","The Comedian").
-atuouem("Alexander Skarsgård","The Legend of Tarzan").
+atuouem("Alexander Skarsgard","The Legend of Tarzan").
 atuouem("Rory J. Saper","The Legend of Tarzan").
 atuouem("Christian Stevens","The Legend of Tarzan").
 atuouem("Christoph Waltz","The Legend of Tarzan").
@@ -513,7 +513,7 @@ atuouem("Miles Heizer","Nerve").
 atuouem("Meryl Streep","Mamma Mia!").
 atuouem("Pierce Brosnan","Mamma Mia!").
 atuouem("Amanda Seyfried","Mamma Mia!").
-atuouem("Stellan Skarsgård","Mamma Mia!").
+atuouem("Stellan Skarsgard","Mamma Mia!").
 atuouem("Leonardo DiCaprio","The Revenant").
 atuouem("Tom Hardy","The Revenant").
 atuouem("Will Poulter","The Revenant").
@@ -527,7 +527,7 @@ atuouem("Meryl Streep","Into the Woods").
 atuouem("Chris Pine","Into the Woods").
 atuouem("Emily Blunt","Into the Woods").
 atuouem("Blake Lively","The Shallows").
-atuouem("Óscar Jaenada","The Shallows").
+atuouem("Oscar Jaenada","The Shallows").
 atuouem("Angelo Josue Lozano Corzo","The Shallows").
 atuouem("Brett Cullen","The Shallows").
 atuouem("Miles Teller","Whiplash").
@@ -668,7 +668,7 @@ atuouem("Woody Harrelson","Now You See Me 2").
 atuouem("Dave Franco","Now You See Me 2").
 atuouem("Helen Mirren","Woman in Gold").
 atuouem("Ryan Reynolds","Woman in Gold").
-atuouem("Daniel Brühl","Woman in Gold").
+atuouem("Daniel Bruhl","Woman in Gold").
 atuouem("Katie Holmes","Woman in Gold").
 atuouem("John Krasinski","13 Hours").
 atuouem("Pablo Schreiber","13 Hours").
@@ -857,7 +857,7 @@ atuouem("Sharlto Copley","Old Boy").
 atuouem("Chris Hemsworth","Thor: The Dark World").
 atuouem("Natalie Portman","Thor: The Dark World").
 atuouem("Tom Hiddleston","Thor: The Dark World").
-atuouem("Stellan Skarsgård","Thor: The Dark World").
+atuouem("Stellan Skarsgard","Thor: The Dark World").
 atuouem("Brenton Thwaites","Gods of Egypt").
 atuouem("Nikolaj Coster-Waldau","Gods of Egypt").
 atuouem("Gerard Butler","Gods of Egypt").
@@ -876,7 +876,7 @@ atuouem("Steve Oram","A Dark Song").
 atuouem("Catherine Walker","A Dark Song").
 atuouem("Aaron Taylor-Johnson","Kick-Ass").
 atuouem("Nicolas Cage","Kick-Ass").
-atuouem("Chloë Grace Moretz","Kick-Ass").
+atuouem("Chloe Grace Moretz","Kick-Ass").
 atuouem("Garrett M. Brown","Kick-Ass").
 atuouem("Sharlto Copley","Hardcore Henry").
 atuouem("Tim Roth","Hardcore Henry").
@@ -893,7 +893,7 @@ atuouem("Lili Sepe","It Follows").
 atuouem("Daniel Craig","The Girl with the Dragon Tattoo").
 atuouem("Rooney Mara","The Girl with the Dragon Tattoo").
 atuouem("Christopher Plummer","The Girl with the Dragon Tattoo").
-atuouem("Stellan Skarsgård","The Girl with the Dragon Tattoo").
+atuouem("Stellan Skarsgard","The Girl with the Dragon Tattoo").
 atuouem("Jason Sudeikis","We're the Millers").
 atuouem("Jennifer Aniston","We're the Millers").
 atuouem("Emma Roberts","We're the Millers").
@@ -961,7 +961,7 @@ atuouem("Diane Kruger","The Host").
 atuouem("Brad Pitt","Fury").
 atuouem("Shia LaBeouf","Fury").
 atuouem("Logan Lerman","Fury").
-atuouem("Michael Peña","Fury").
+atuouem("Michael Pena","Fury").
 atuouem("Amy Poehler","Inside Out").
 atuouem("Bill Hader","Inside Out").
 atuouem("Lewis Black","Inside Out").
@@ -1022,7 +1022,7 @@ atuouem("Zach Galifianakis","The Hangover").
 atuouem("Bradley Cooper","The Hangover").
 atuouem("Justin Bartha","The Hangover").
 atuouem("Ed Helms","The Hangover").
-atuouem("Alexander Skarsgård","Battleship").
+atuouem("Alexander Skarsgard","Battleship").
 atuouem("Brooklyn Decker","Battleship").
 atuouem("Liam Neeson","Battleship").
 atuouem("Rihanna","Battleship").
@@ -1051,7 +1051,7 @@ atuouem("Tessa Thompson","Dear White People").
 atuouem("Kyle Gallner","Dear White People").
 atuouem("Teyonah Parris","Dear White People").
 atuouem("Charlotte Gainsbourg","Nymphomaniac: Vol. I").
-atuouem("Stellan Skarsgård","Nymphomaniac: Vol. I").
+atuouem("Stellan Skarsgard","Nymphomaniac: Vol. I").
 atuouem("Stacy Martin","Nymphomaniac: Vol. I").
 atuouem("Shia LaBeouf","Nymphomaniac: Vol. I").
 atuouem("Megan Fox","Teenage Mutant Ninja Turtles: Out of the Shadows").
@@ -1127,7 +1127,7 @@ atuouem("Jude Law","Sherlock Holmes").
 atuouem("Rachel McAdams","Sherlock Holmes").
 atuouem("Mark Strong","Sherlock Holmes").
 atuouem("Kurt Russell","Death Proof").
-atuouem("Zoë Bell","Death Proof").
+atuouem("Zoe Bell","Death Proof").
 atuouem("Rosario Dawson","Death Proof").
 atuouem("Vanessa Ferlito","Death Proof").
 atuouem("Eddie Redmayne","The Danish Girl").
@@ -1169,7 +1169,7 @@ atuouem("Anna Camp","Pitch Perfect").
 atuouem("Seth Rogen","Neighbors 2: Sorority Rising").
 atuouem("Rose Byrne","Neighbors 2: Sorority Rising").
 atuouem("Zac Efron","Neighbors 2: Sorority Rising").
-atuouem("Chloë Grace Moretz","Neighbors 2: Sorority Rising").
+atuouem("Chloe Grace Moretz","Neighbors 2: Sorority Rising").
 atuouem("Lily James","The Exception").
 atuouem("Jai Courtney","The Exception").
 atuouem("Christopher Plummer","The Exception").
@@ -1200,7 +1200,7 @@ atuouem("Ciaran Hinds","There Will Be Blood").
 atuouem("Martin Stringer","There Will Be Blood").
 atuouem("Denzel Washington","The Equalizer").
 atuouem("Marton Csokas","The Equalizer").
-atuouem("Chloë Grace Moretz","The Equalizer").
+atuouem("Chloe Grace Moretz","The Equalizer").
 atuouem("David Harbour","The Equalizer").
 atuouem("Mark Wahlberg","Lone Survivor").
 atuouem("Taylor Kitsch","Lone Survivor").
@@ -1227,7 +1227,7 @@ atuouem("Johnny Depp","Alice Through the Looking Glass").
 atuouem("Helena Bonham Carter","Alice Through the Looking Glass").
 atuouem("Anne Hathaway","Alice Through the Looking Glass").
 atuouem("Emile Hirsch","Vincent N Roxxy").
-atuouem("Zoë Kravitz","Vincent N Roxxy").
+atuouem("Zoe Kravitz","Vincent N Roxxy").
 atuouem("Zoey Deutch","Vincent N Roxxy").
 atuouem("Emory Cohen","Vincent N Roxxy").
 atuouem("Lucas Black","The Fast and the Furious: Tokyo Drift").
@@ -1262,7 +1262,7 @@ atuouem("Chris Evans","Snowpiercer").
 atuouem("Jamie Bell","Snowpiercer").
 atuouem("Tilda Swinton","Snowpiercer").
 atuouem("Ed Harris","Snowpiercer").
-atuouem("Chloë Grace Moretz","The 5th Wave").
+atuouem("Chloe Grace Moretz","The 5th Wave").
 atuouem("Matthew Zuk","The 5th Wave").
 atuouem("Gabriela Lopez","The 5th Wave").
 atuouem("Bailey Anne Borders","The 5th Wave").
@@ -1301,7 +1301,7 @@ atuouem("Rooney Mara","The Social Network").
 atuouem("Vin Diesel","The Last Witch Hunter").
 atuouem("Rose Leslie","The Last Witch Hunter").
 atuouem("Elijah Wood","The Last Witch Hunter").
-atuouem("Ólafur Darri Ólafsson","The Last Witch Hunter").
+atuouem("Olafur Darri Olafsson","The Last Witch Hunter").
 atuouem("Daniel Radcliffe","Victor Frankenstein").
 atuouem("James McAvoy","Victor Frankenstein").
 atuouem("Jessica Brown Findlay","Victor Frankenstein").
@@ -1334,7 +1334,7 @@ atuouem("Daniel Day-Lewis","Lincoln").
 atuouem("Sally Field","Lincoln").
 atuouem("David Strathairn","Lincoln").
 atuouem("Joseph Gordon-Levitt","Lincoln").
-atuouem("Daniel Brühl","Rush").
+atuouem("Daniel Bruhl","Rush").
 atuouem("Chris Hemsworth","Rush").
 atuouem("Olivia Wilde","Rush").
 atuouem("Alexandra Maria Lara","Rush").
@@ -1751,7 +1751,7 @@ atuouem("Ewan McGregor","The imposible").
 atuouem("Tom Holland","The imposible").
 atuouem("Oaklee Pendergast","The imposible").
 atuouem("Aaron Taylor-Johnson","Kick-Ass 2").
-atuouem("Chloë Grace Moretz","Kick-Ass 2").
+atuouem("Chloe Grace Moretz","Kick-Ass 2").
 atuouem("Christopher Mintz-Plasse","Kick-Ass 2").
 atuouem("Jim Carrey","Kick-Ass 2").
 atuouem("Alex Karpovsky","Folk Hero & Funny Guy").
@@ -1794,7 +1794,7 @@ atuouem("Ryan Potter","Big Hero 6").
 atuouem("Scott Adsit","Big Hero 6").
 atuouem("Jamie Chung","Big Hero 6").
 atuouem("T.J. Miller","Big Hero 6").
-atuouem("Chloë Grace Moretz","Carrie").
+atuouem("Chloe Grace Moretz","Carrie").
 atuouem("Julianne Moore","Carrie").
 atuouem("Gabriella Wilde","Carrie").
 atuouem("Portia Doubleday","Carrie").
@@ -1821,7 +1821,7 @@ atuouem("Teresa Palmer","I Am Number Four").
 atuouem("Mads Mikkelsen","Jagten").
 atuouem("Thomas Bo Larsen","Jagten").
 atuouem("Annika Wedderkopp","Jagten").
-atuouem("Lasse Fogelstrøm","Jagten").
+atuouem("Lasse Fogelstrom","Jagten").
 atuouem("Sandra Bullock","The Proposal").
 atuouem("Ryan Reynolds","The Proposal").
 atuouem("Mary Steenburgen","The Proposal").
@@ -1902,7 +1902,7 @@ atuouem("Taron Egerton","Eddie the Eagle").
 atuouem("Hugh Jackman","Eddie the Eagle").
 atuouem("Tom Costello","Eddie the Eagle").
 atuouem("Jo Hartley","Eddie the Eagle").
-atuouem("Ulrich Mühe","The Lives of Others").
+atuouem("Ulrich Muhe","The Lives of Others").
 atuouem("Martina Gedeck","The Lives of Others").
 atuouem("Sebastian Koch","The Lives of Others").
 atuouem("Ulrich Tukur","The Lives of Others").
@@ -2029,7 +2029,7 @@ atuouem("Benicio Del Toro","Savages").
 atuouem("Zooey Deschanel","(500) Days of Summer").
 atuouem("Joseph Gordon-Levitt","(500) Days of Summer").
 atuouem("Geoffrey Arend","(500) Days of Summer").
-atuouem("Chloë Grace Moretz","(500) Days of Summer").
+atuouem("Chloe Grace Moretz","(500) Days of Summer").
 atuouem("Emma Stone","Movie 43").
 atuouem("Stephen Merchant","Movie 43").
 atuouem("Richard Gere","Movie 43").
@@ -2043,7 +2043,7 @@ atuouem("David Thewlis","The Boy in the Striped Pyjamas").
 atuouem("Rupert Friend","The Boy in the Striped Pyjamas").
 atuouem("Zac Mattoon O'Brien","The Boy in the Striped Pyjamas").
 atuouem("Mark Wahlberg","Shooter").
-atuouem("Michael Peña","Shooter").
+atuouem("Michael Pena","Shooter").
 atuouem("Rhona Mitra","Shooter").
 atuouem("Danny Glover","Shooter").
 atuouem("Mark Wahlberg","The Happening").
@@ -2215,7 +2215,7 @@ atuouem("Martin McCann","The Survivalist").
 atuouem("Barry Ward","The Survivalist").
 atuouem("Andrew Simpson","The Survivalist").
 atuouem("Emma Watson","Colonia").
-atuouem("Daniel Brühl","Colonia").
+atuouem("Daniel Bruhl","Colonia").
 atuouem("Michael Nyqvist","Colonia").
 atuouem("Richenda Carey","Colonia").
 atuouem("Jennifer Lopez","The Boy Next Door").
@@ -2358,10 +2358,10 @@ atuouem("Kelly Macdonald","Brave").
 atuouem("Billy Connolly","Brave").
 atuouem("Emma Thompson","Brave").
 atuouem("Julie Walters","Brave").
-atuouem("Michael Nyqvist","Män som hatar kvinnor").
-atuouem("Noomi Rapace","Män som hatar kvinnor").
-atuouem("Ewa Fröling","Män som hatar kvinnor").
-atuouem("Lena Endre","Män som hatar kvinnor").
+atuouem("Michael Nyqvist","Man som hatar kvinnor").
+atuouem("Noomi Rapace","Man som hatar kvinnor").
+atuouem("Ewa Froling","Man som hatar kvinnor").
+atuouem("Lena Endre","Man som hatar kvinnor").
 atuouem("Naomi Watts","Adoration").
 atuouem("Robin Wright","Adoration").
 atuouem("Xavier Samuel","Adoration").
@@ -2379,7 +2379,7 @@ atuouem("Mark Wahlberg","Daddy's Home").
 atuouem("Linda Cardellini","Daddy's Home").
 atuouem("Thomas Haden Church","Daddy's Home").
 atuouem("Kodi Smit-McPhee","Let Me In").
-atuouem("Chloë Grace Moretz","Let Me In").
+atuouem("Chloe Grace Moretz","Let Me In").
 atuouem("Richard Jenkins","Let Me In").
 atuouem("Cara Buono","Let Me In").
 atuouem("Sean Faris","Never Back Down").
@@ -2442,7 +2442,7 @@ atuouem("Alice Englert","Beautiful Creatures").
 atuouem("Viola Davis","Beautiful Creatures").
 atuouem("Emma Thompson","Beautiful Creatures").
 atuouem("Alden Ehrenreich","Beautiful Creatures").
-atuouem("Sandra Hüller","Toni Erdmann").
+atuouem("Sandra Huller","Toni Erdmann").
 atuouem("Peter Simonischek","Toni Erdmann").
 atuouem("Michael Wittenborn","Toni Erdmann").
 atuouem("Thomas Loibl","Toni Erdmann").
@@ -2488,7 +2488,7 @@ atuouem("India Eisley","Underworld Awakening").
 atuouem("Stephen Rea","Underworld Awakening").
 atuouem("Willem Dafoe","Antichrist").
 atuouem("Charlotte Gainsbourg","Antichrist").
-atuouem("Storm Acheche Sahlstrøm","Antichrist").
+atuouem("Storm Acheche Sahlstrom","Antichrist").
 atuouem("Jared Padalecki","Friday the 13th").
 atuouem("Amanda Righetti","Friday the 13th").
 atuouem("Derek Mears","Friday the 13th").
@@ -2571,7 +2571,7 @@ atuouem("Jorge Garcia","The Ridiculous 6").
 atuouem("Taylor Lautner","The Ridiculous 6").
 atuouem("Pierre Niney","Frantz").
 atuouem("Paula Beer","Frantz").
-atuouem("Ernst Stötzner","Frantz").
+atuouem("Ernst Stotzner","Frantz").
 atuouem("Marie Gruber","Frantz").
 atuouem("Sofia Black-D'Elia","Viral").
 atuouem("Analeigh Tipton","Viral").
@@ -2583,7 +2583,7 @@ atuouem("Christopher Carley","Gran Torino").
 atuouem("Ahney Her","Gran Torino").
 atuouem("Bradley Cooper","Burnt").
 atuouem("Sienna Miller","Burnt").
-atuouem("Daniel Brühl","Burnt").
+atuouem("Daniel Bruhl","Burnt").
 atuouem("Riccardo Scamarcio","Burnt").
 atuouem("Dan Crisafulli","Tall Men").
 atuouem("Kay Whitney","Tall Men").
@@ -2693,8 +2693,8 @@ atuouem("Ryan Reynolds","Green Lantern").
 atuouem("Blake Lively","Green Lantern").
 atuouem("Peter Sarsgaard","Green Lantern").
 atuouem("Mark Strong","Green Lantern").
-atuouem("Alexander Skarsgård","War on Everyone").
-atuouem("Michael Peña","War on Everyone").
+atuouem("Alexander Skarsgard","War on Everyone").
+atuouem("Michael Pena","War on Everyone").
 atuouem("Theo James","War on Everyone").
 atuouem("Tessa Thompson","War on Everyone").
 atuouem("Thomas Jane","The Mist").
@@ -2726,7 +2726,7 @@ atuouem("John C. Reilly","We Need to Talk About Kevin").
 atuouem("Ezra Miller","We Need to Talk About Kevin").
 atuouem("Jasper Newell","We Need to Talk About Kevin").
 atuouem("Kate Beckinsale","Love & Friendship").
-atuouem("Chloë Sevigny","Love & Friendship").
+atuouem("Chloe Sevigny","Love & Friendship").
 atuouem("Xavier Samuel","Love & Friendship").
 atuouem("Emma Greenwell","Love & Friendship").
 atuouem("Lily Collins","The Mortal Instruments: City of Bones").
@@ -2878,7 +2878,7 @@ atuouem("Rose Byrne","Neighbors").
 atuouem("Zac Efron","Neighbors").
 atuouem("Lisa Kudrow","Neighbors").
 atuouem("Charlotte Gainsbourg","Nymphomaniac: Vol. II").
-atuouem("Stellan Skarsgård","Nymphomaniac: Vol. II").
+atuouem("Stellan Skarsgard","Nymphomaniac: Vol. II").
 atuouem("Willem Dafoe","Nymphomaniac: Vol. II").
 atuouem("Jamie Bell","Nymphomaniac: Vol. II").
 atuouem("Reese Witherspoon","Wild").
@@ -2938,7 +2938,7 @@ atuouem("Britt Robertson","Mr. Church").
 atuouem("Natascha McElhone","Mr. Church").
 atuouem("Xavier Samuel","Mr. Church").
 atuouem("Asa Butterfield","Hugo").
-atuouem("Chloë Grace Moretz","Hugo").
+atuouem("Chloe Grace Moretz","Hugo").
 atuouem("Christopher Lee","Hugo").
 atuouem("Ben Kingsley","Hugo").
 atuouem("Emma Roberts","The Blackcoat's Daughter").
@@ -3312,7 +3312,7 @@ atuouem("Sienna Guillory","The Warriors Gate").
 atuouem("Kurt Russell","Grindhouse").
 atuouem("Rose McGowan","Grindhouse").
 atuouem("Danny Trejo","Grindhouse").
-atuouem("Zoë Bell","Grindhouse").
+atuouem("Zoe Bell","Grindhouse").
 atuouem("Carmen Electra","Disaster Movie").
 atuouem("Vanessa Lachey","Disaster Movie").
 atuouem("Nicole Parker","Disaster Movie").
@@ -3368,7 +3368,7 @@ atuouem("Dakota Johnson","A Bigger Splash").
 atuouem("Kirsten Dunst","Melancholia").
 atuouem("Charlotte Gainsbourg","Melancholia").
 atuouem("Kiefer Sutherland","Melancholia").
-atuouem("Alexander Skarsgård","Melancholia").
+atuouem("Alexander Skarsgard","Melancholia").
 atuouem("Anika Noni Rose","The Princess and the Frog").
 atuouem("Keith David","The Princess and the Frog").
 atuouem("Oprah Winfrey","The Princess and the Frog").
@@ -3477,7 +3477,7 @@ atuouem("Tom Cruise","Mission: Impossible III").
 atuouem("Michelle Monaghan","Mission: Impossible III").
 atuouem("Ving Rhames","Mission: Impossible III").
 atuouem("Philip Seymour Hoffman","Mission: Impossible III").
-atuouem("Rolf Lassgård","En man som heter Ove").
+atuouem("Rolf Lassgard","En man som heter Ove").
 atuouem("Bahar Pars","En man som heter Ove").
 atuouem("Filip Berg","En man som heter Ove").
 atuouem("Ida Engvoll","En man som heter Ove").
@@ -3520,7 +3520,7 @@ atuouem("Ralph Fiennes","Wrath of the Titans").
 atuouem("Hiroki Hasegawa","Shin Gojira").
 atuouem("Yutaka Takenouchi","Shin Gojira").
 atuouem("Satomi Ishihara","Shin Gojira").
-atuouem("Ren Ôsugi","Shin Gojira").
+atuouem("Ren Osugi","Shin Gojira").
 atuouem("Emma Thompson","Saving Mr. Banks").
 atuouem("Tom Hanks","Saving Mr. Banks").
 atuouem("Annie Rose Buckley","Saving Mr. Banks").
@@ -3721,7 +3721,7 @@ atuouem("Kenny Wormald","Footloose").
 atuouem("Julianne Hough","Footloose").
 atuouem("Dennis Quaid","Footloose").
 atuouem("Andie MacDowell","Footloose").
-atuouem("Chloë Grace Moretz","If I Stay").
+atuouem("Chloe Grace Moretz","If I Stay").
 atuouem("Mireille Enos","If I Stay").
 atuouem("Jamie Blackley","If I Stay").
 atuouem("Joshua Leonard","If I Stay").
@@ -3826,7 +3826,7 @@ atuouem("Dennis Quaid","Legion").
 atuouem("Charles S. Dutton","Legion").
 atuouem("Lucas Black","Legion").
 atuouem("Jake Gyllenhaal","End of Watch").
-atuouem("Michael Peña","End of Watch").
+atuouem("Michael Pena","End of Watch").
 atuouem("Anna Kendrick","End of Watch").
 atuouem("America Ferrera","End of Watch").
 atuouem("Kevin Costner","3 Days to Kill").
@@ -3868,7 +3868,7 @@ atuouem("Laurent Lucas","L'odyssee").
 atuouem("Joseph Gordon-Levitt","The Walk").
 atuouem("Charlotte Le Bon","The Walk").
 atuouem("Guillaume Baillargeon","The Walk").
-atuouem("Émilie Leclerc","The Walk").
+atuouem("Emilie Leclerc","The Walk").
 atuouem("Anna Hutchison","Wrecker").
 atuouem("Andrea Whitburn","Wrecker").
 atuouem("Jennifer Koenig","Wrecker").
@@ -3904,7 +3904,7 @@ atuouem("Lainie Kazan","My Big Fat Greek Wedding 2").
 atuouem("Charlize Theron","Dark Places").
 atuouem("Nicholas Hoult","Dark Places").
 atuouem("Christina Hendricks","Dark Places").
-atuouem("Chloë Grace Moretz","Dark Places").
+atuouem("Chloe Grace Moretz","Dark Places").
 atuouem("Jason Biggs","Amateur Night").
 atuouem("Janet Montgomery","Amateur Night").
 atuouem("Ashley Tisdale","Amateur Night").
@@ -4058,7 +4058,7 @@ dirigiu("Thea Sharrock","Me Before You").
 dirigiu("Lone Scherfig","Their Finest").
 dirigiu("Clint Eastwood","Sully").
 dirigiu("Zack Snyder","Batman v Superman: Dawn of Justice").
-dirigiu("Andre Øvredal","The Autopsy of Jane Doe").
+dirigiu("Andre Ovredal","The Autopsy of Jane Doe").
 dirigiu("Tate Taylor","The Girl on the Train").
 dirigiu("Sam Taylor-Johnson","Fifty Shades of Grey").
 dirigiu("Christopher Nolan","The Prestige").
@@ -4126,7 +4126,7 @@ dirigiu("Jon Favreau","The Jungle Book").
 dirigiu("Michael Bay","Transformers: Age of Extinction").
 dirigiu("Henry Joost","Nerve").
 dirigiu("Phyllida Lloyd","Mamma Mia!").
-dirigiu("Alejandro Gonzalez Iñarritu","The Revenant").
+dirigiu("Alejandro Gonzalez Inarritu","The Revenant").
 dirigiu("Denzel Washington","Fences").
 dirigiu("Rob Marshall","Into the Woods").
 dirigiu("Jaume Collet-Serra","The Shallows").
@@ -4257,7 +4257,7 @@ dirigiu("Peter Berg","Battleship").
 dirigiu("Rupert Wyatt","Rise of the Planet of the Apes").
 dirigiu("David F. Sandberg","Lights Out").
 dirigiu("Joseph Cedar","Norman: The Moderate Rise and Tragic Fall of a New York Fixer").
-dirigiu("Alejandro Gonzalez Iñarritu","Birdman or (The Unexpected Virtue of Ignorance)").
+dirigiu("Alejandro Gonzalez Inarritu","Birdman or (The Unexpected Virtue of Ignorance)").
 dirigiu("Darren Aronofsky","Black Swan").
 dirigiu("Justin Simien","Dear White People").
 dirigiu("Lars von Trier","Nymphomaniac: Vol. I").
@@ -4484,7 +4484,7 @@ dirigiu("Paolo Genovese","Perfetti sconosciuti").
 dirigiu("Clay Kaytis","Angry Birds").
 dirigiu("Wes Anderson","Moonrise Kingdom").
 dirigiu("Adam Shankman","Hairspray").
-dirigiu("Lasse Hallström","Safe Haven").
+dirigiu("Lasse Hallstrom","Safe Haven").
 dirigiu("Glenn Ficarra","Focus").
 dirigiu("Brad Bird","Ratatouille").
 dirigiu("Jim Mickle","Stake Land").
@@ -4587,9 +4587,9 @@ dirigiu("Angelina Jolie","Unbroken").
 dirigiu("Tarsem Singh","Immortals").
 dirigiu("Danny Boyle","Sunshine").
 dirigiu("Mark Andrews","Brave").
-dirigiu("Niels Arden Oplev","Män som hatar kvinnor").
+dirigiu("Niels Arden Oplev","Man som hatar kvinnor").
 dirigiu("Anne Fontaine","Adoration").
-dirigiu("Michaël R. Roskam","The Drop").
+dirigiu("Michael R. Roskam","The Drop").
 dirigiu("Andy Fickman","She's the Man").
 dirigiu("Sean Anders","Daddy's Home").
 dirigiu("Matt Reeves","Let Me In").
@@ -4618,7 +4618,7 @@ dirigiu("Gary Ross","Free State of Jones").
 dirigiu("Paco Cabezas","Mr. Right").
 dirigiu("Ben Stiller","The Secret Life of Walter Mitty").
 dirigiu("Rick Famuyiwa","Dope").
-dirigiu("Måns Mårlind","Underworld Awakening").
+dirigiu("Mans Marlind","Underworld Awakening").
 dirigiu("Lars von Trier","Antichrist").
 dirigiu("Marcus Nispel","Friday the 13th").
 dirigiu("Olivier Megaton","Taken 3").
@@ -4661,7 +4661,7 @@ dirigiu("David Gordon Green","Pineapple Express").
 dirigiu("Jon Kasdan","The First Time").
 dirigiu("Ben Affleck","Gone Baby Gone").
 dirigiu("Paul Feig","The Heat").
-dirigiu("Mia Hansen-Løve","L'avenir").
+dirigiu("Mia Hansen-Love","L'avenir").
 dirigiu("Joe Wright","Anna Karenina").
 dirigiu("Alejandro Amenabar","Regression").
 dirigiu("Seth MacFarlane","Ted 2").
@@ -4673,7 +4673,7 @@ dirigiu("Kathryn Bigelow","The Hurt Locker").
 dirigiu("Martin Campbell","Green Lantern").
 dirigiu("John Michael McDonagh","War on Everyone").
 dirigiu("Frank Darabont","The Mist").
-dirigiu("Mikael Håfström","Escape Plan").
+dirigiu("Mikael Hafstrom","Escape Plan").
 dirigiu("Christian Ditter","Love, Rosie").
 dirigiu("Ari Sandel","The DUFF").
 dirigiu("Jee-woon Kim","The Age of Shadows").
@@ -4692,7 +4692,7 @@ dirigiu("Gauri Shinde","Dear Zindagi").
 dirigiu("Michael Grandage","Genius").
 dirigiu("Paul W.S. Anderson","Pompeii").
 dirigiu("Ang Lee","Life of Pi").
-dirigiu("Lasse Hallström","Hachi: A Dog's Tale").
+dirigiu("Lasse Hallstrom","Hachi: A Dog's Tale").
 dirigiu("Jamie Linden","10 Years").
 dirigiu("Mike Cahill","I Origins").
 dirigiu("Len Wiseman","Live Free or Die Hard").
@@ -4801,7 +4801,7 @@ dirigiu("Kevin Smith","Yoga Hosers").
 dirigiu("Martin McDonagh","Seven Psychopaths").
 dirigiu("Robert Zemeckis","Beowulf").
 dirigiu("Kenneth Branagh","Jack Ryan: Shadow Recruit").
-dirigiu("Mikael Håfström","1408").
+dirigiu("Mikael Hafstrom","1408").
 dirigiu("Rupert Wyatt","The Gambler").
 dirigiu("Mike Newell","Prince of Persia: The Sands of Time").
 dirigiu("James Ponsoldt","The Spectacular Now").
@@ -4882,7 +4882,7 @@ dirigiu("John Lee Hancock","Saving Mr. Banks").
 dirigiu("Wally Pfister","Transcendence").
 dirigiu("Carlos Saldanha","Rio").
 dirigiu("Drake Doremus","Equals").
-dirigiu("Alejandro Gonzalez Iñarritu","Babel").
+dirigiu("Alejandro Gonzalez Inarritu","Babel").
 dirigiu("Terrence Malick","The Tree of Life").
 dirigiu("Scott Hicks","The Lucky One").
 dirigiu("Alexandre Aja","Piranha 3D").
@@ -4937,7 +4937,7 @@ dirigiu("Tom Six","The Human Centipede (First Sequence)").
 dirigiu("James Gunn","Super").
 dirigiu("Richie Smyth","The Siege of Jadotville").
 dirigiu("Jason Reitman","Up in the Air").
-dirigiu("Ryûhei Kitamura","The Midnight Meat Train").
+dirigiu("Ryuhei Kitamura","The Midnight Meat Train").
 dirigiu("David Slade","The Twilight Saga: Eclipse").
 dirigiu("Greg Kwedar","Transpecos").
 dirigiu("Mark Mylod","What's Your Number?").
@@ -6532,9 +6532,9 @@ genero("Sunshine","Thriller").
 genero("Brave","Animation").
 genero("Brave","Adventure").
 genero("Brave","Comedy").
-genero("Män som hatar kvinnor","Drama").
-genero("Män som hatar kvinnor","Mystery").
-genero("Män som hatar kvinnor","Thriller").
+genero("Man som hatar kvinnor","Drama").
+genero("Man som hatar kvinnor","Mystery").
+genero("Man som hatar kvinnor","Thriller").
 genero("Adoration","Drama").
 genero("Adoration","Romance").
 genero("The Drop","Crime").
@@ -8142,7 +8142,7 @@ duracao("Unbroken",137).
 duracao("Immortals",110).
 duracao("Sunshine",107).
 duracao("Brave",93).
-duracao("Män som hatar kvinnor",152).
+duracao("Man som hatar kvinnor",152).
 duracao("Adoration",112).
 duracao("The Drop",106).
 duracao("She's the Man",105).

@@ -3,11 +3,11 @@ import pandas as pd
 
 def normalize(string: str) -> str:
     string = string.replace('ï', 'i').replace('í', 'i')
-    string = string.replace('è', 'e').replace('é', 'e')
-    string = string.replace('ù', 'u').replace('ú', 'u')
-    string = string.replace('à', 'a').replace('á', 'a').replace('â', 'a').replace('ã', 'a')
-    string = string.replace('ò', 'o').replace('ó', 'o').replace('ô', 'o').replace('õ', 'o')
-    string = string.replace('ç', 'c')
+    string = string.replace('è', 'e').replace('é', 'e').replace('ë', 'e').replace('É', 'E')
+    string = string.replace('ù', 'u').replace('ú', 'u').replace('û', 'u').replace('ü', 'u')
+    string = string.replace('à', 'a').replace('á', 'a').replace('â', 'a').replace('ã', 'a').replace('å', 'a').replace('ä', 'a')
+    string = string.replace('ò', 'o').replace('ó', 'o').replace('ô', 'o').replace('õ', 'o').replace('Ó', 'O').replace('ö', 'o').replace('Ô', 'O')
+    string = string.replace('ç', 'c').replace('ñ', 'n')
     return string.strip()
 
 dataframe = pd.read_csv('./datasets/IMDB-Movie-Data.csv')
