@@ -14,9 +14,9 @@ Trabalho de prolog para a disciplina de Inteligência Artificial - 20222
 
 Dataset utilizado: https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data
 
-- Para executar as queries, carregue o dataset gerado anteriormente pelo parser no ambiente online de prolog disponibilizado em aula: https://swish.swi-prolog.org
+- Para executar as queries, carregue o dataset, gerado anteriormente pelo parser, no ambiente online de prolog disponibilizado em aula: https://swish.swi-prolog.org
 
-- Para testar executar as queries, copie e cole os exemplos no arquivo queries.pl
+- Para testar executar as queries, copie e cole os exemplos no arquivo `queries.pl`
 
 ## Descrição
 
