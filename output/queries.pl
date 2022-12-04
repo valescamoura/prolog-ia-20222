@@ -33,7 +33,8 @@
 % Algum filme não teve a atuação da atriz X?
 
 % Visto que o dataset usado não diferencia entre mulheres e homens, adaptamos esta query para qualquer gênero
-?- 
+
+?- findall(Y, atuouem(_,Y), Ys), sort(Ys, SYs), findall(Z, atuouem("<Atriz X>",Z), Zs), sort(Zs, SZs), delete(SYs, SZs, Is).
 
 % Quem dirigiu mais de um filme (use ; para a resposta).
 
